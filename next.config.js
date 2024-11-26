@@ -61,15 +61,5 @@ module.exports = {
       },*/
     ]
   },
-  i18n,
-  images: {
-    domains: [
-      process.env.PUBLIC_URL,
-      'localhost',
-      'cdn1.danelfin.com',
-      'next.danelfin.com'
-    ],
-    loader: 'default',
-    path: process.env.PUBLIC_URL,
-  }
+  i18n
 }
