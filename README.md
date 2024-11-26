@@ -1,55 +1,40 @@
-# Danelfin App
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
-Welcome to the documentation for Danelfin App, built with Next.js.
+## Getting Started
 
-## Description
+First, run the development server:
 
-Danelfin is a stock analytics platform powered by Explainable Artificial Intelligence. It rates stocks and ETFs with an easy-to-understand global AI Score, ranging from 1 to 10; the higher the score, the higher the probability of beating the market in the next 3 months.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Technologies Used
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- [Next.js](https://nextjs.org)
-- [React](https://reactjs.org)
-- [Vercel](https://vercel.com/)
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## Folder Structure
-/components
-/context
-/data
-/documentation
-/helpers
-/hooks
-/pages
-/public
-/styles
-## Installation Instructions
+[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-1. Clone this repository: `git clone https://yourusername@bitbucket.org/gsafer-danelfin/nextjs-danelfin.git`
-2. Navigate to the project directory: `cd nextjs-danelfin`
-3. Install the dependencies: `npm install`
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
 
-## Development Instructions
+This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-1. Start the development server: `npm run dev`
-2. Open your browser at: `http://localhost:3000`
+## Learn More
 
-## Deployment Instructions
+To learn more about Next.js, take a look at the following resources:
 
-To deploy the application to a production environment:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
 
-1. Merge your branch with main and `git push origin main`
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Global State
+## Deploy on Vercel
 
-We use Context API for global state management in the application. You can find most of the logic in `/context/pageContext.js`.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## helpers
-
-We use helpers for sharing functions between components. You can find most of the logic in `/helpers`.
-
-## Additional Resources
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://reactjs.org/docs)
-
-T
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.

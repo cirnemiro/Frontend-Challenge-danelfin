@@ -1,0 +1,4410 @@
+{
+	"IndustriesList": {
+		"DiversifiedTelecommunicationServices": "",
+		"EnergyEquipment&Services": "",
+		"IndependentPower&RenewableElectricityProd": "",
+		"MortgageRealEstateInvestmentTrusts(REITs)": ""
+	},
+	"aboutUs": {
+		"section1": {
+			"subtitle": "",
+			"title": ""
+		},
+		"section2": {
+			"2016": "",
+			"2018": "",
+			"2019": "",
+			"2020": "",
+			"2021": "",
+			"2022": "",
+			"2023": "",
+			"analytics": "",
+			"button": "",
+			"founded": "",
+			"launch": "",
+			"launch1": "",
+			"launch2": "",
+			"launchAIPrice": "",
+			"learn": "",
+			"milestones": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"quote": "",
+			"quoteAuthor": "",
+			"ready": "",
+			"ready1": "",
+			"ready2": "",
+			"start": "",
+			"subtitle": "",
+			"supportUSStocks": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		}
+	},
+	"advancedChart": {
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		}
+	},
+	"affiliate": {
+		"become": "",
+		"commission": "",
+		"cookie": "",
+		"danelfin": "",
+		"description": "",
+		"highlights": "",
+		"lifetime": {
+			"bold": "",
+			"regular": ""
+		},
+		"recurring": {
+			"bold": "",
+			"regular": ""
+		},
+		"register": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"allEtfs": {
+		"filter": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"subtitle": "",
+		"table": {
+			"company": "",
+			"country": "",
+			"industry": ""
+		},
+		"title": ""
+	},
+	"allStocks": {
+		"filter": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"subtitle": "",
+		"table": {
+			"company": "",
+			"country": "",
+			"industry": ""
+		},
+		"title": ""
+	},
+	"apiManual": {
+		"addingNewCustomer": {
+			"step1": "",
+			"step2": "",
+			"step3": "",
+			"step3a": "",
+			"step3b": "",
+			"step4": "",
+			"step5": "",
+			"step6": "",
+			"title": ""
+		},
+		"apiKeys": {
+			"text1": "",
+			"text2": "",
+			"text3": "",
+			"title": "",
+			"xapikey": "",
+			"xapikeyVal": ""
+		},
+		"contactInfo": {
+			"contactInfo1": "",
+			"contactInfo2": "",
+			"contactInfo3": "",
+			"contactInfo4": "",
+			"contactInfo5": ""
+		},
+		"endpoints": {
+			"endpointRoute": "",
+			"endpointRoute1": "",
+			"firstLine": "",
+			"method": "",
+			"methodType": "",
+			"queryParams": {
+				"date": "",
+				"dateExp": "",
+				"market": "",
+				"marketExp": "",
+				"scoreValDate": "",
+				"scoreValDateExp": "",
+				"ticker": "",
+				"tickerExp": "",
+				"tickerPlusDate": "",
+				"tickerPlusDateExp": "",
+				"title": ""
+			},
+			"title": ""
+		},
+		"hadesSecurity": {
+			"apiAccess": {
+				"bold1": "",
+				"bold2": "",
+				"normalTxt": ""
+			},
+			"apiKey": {
+				"bold1": "",
+				"bold2": "",
+				"normalTxt1": "",
+				"normalTxt2": ""
+			},
+			"subtitle": "",
+			"title": ""
+		},
+		"infos": {
+			"info1": "",
+			"info2": "",
+			"info3": "",
+			"info4": "",
+			"info5": "",
+			"info6": ""
+		},
+		"responses": {
+			"200": "",
+			"400": "",
+			"403": "",
+			"200cases": {
+				"case1n2": {
+					"boldTxt1": "",
+					"boldTxt2": "",
+					"boldTxt3": "",
+					"normTxt1": "",
+					"normTxt2": ""
+				},
+				"case3": {
+					"boldTxt1": "",
+					"boldTxt2": "",
+					"normTxt1": "",
+					"normTxt2": ""
+				}
+			},
+			"200exp": "",
+			"400exp": "",
+			"403exp": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": {
+			"title1": "",
+			"title2": "",
+			"title3": ""
+		},
+		"usuage": {
+			"example1": "",
+			"example2": "",
+			"example3": "",
+			"example4": "",
+			"examples": "",
+			"title": ""
+		},
+		"usuagePlans": {
+			"explanation": "",
+			"proTier": {
+				"apiCalls": "",
+				"apiCallsVal": "",
+				"price": "",
+				"priceVal": "",
+				"rateLimit": "",
+				"rateLimitVal": "",
+				"support": "",
+				"supportVal": "",
+				"title": ""
+			},
+			"title": ""
+		}
+	},
+	"bestStockStrategy": {
+		"bestStocksPerformance": {
+			"bestStocks": {
+				"bestStocksBold": "",
+				"bestStocksNormal": "",
+				"perfFrom": ""
+			},
+			"paragraph1": "",
+			"paragraph2": ""
+		},
+		"danelfinAI": "",
+		"finalPortfolio": "",
+		"finalPortfoliosIndustryDist": "",
+		"finalPortfoliosSectorDist": "",
+		"finalText": "",
+		"howToApply": {
+			"disclaimer": {
+				"bold": "",
+				"normal": "",
+				"normal1": ""
+			},
+			"numFour": {
+				"bold": "",
+				"normal1": ""
+			},
+			"numOne": {
+				"bold": "",
+				"link1": "",
+				"link2": "",
+				"normal1": "",
+				"normal2": "",
+				"normal3": ""
+			},
+			"numThree": {
+				"bold": "",
+				"normal1": ""
+			},
+			"numTwo": {
+				"bold": "",
+				"link1": "",
+				"link2": "",
+				"normal1": "",
+				"normal2": "",
+				"normal3": ""
+			}
+		},
+		"initialPortfolios": {
+			"paragraph": ""
+		},
+		"initialPortfoliosIndustryDist": "",
+		"initialPortfoliosSectorDist": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"stocksYearlyAvgMetrics": {
+			"paragraph": "",
+			"paragraph2": ""
+		},
+		"strategyMethod": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": ""
+		},
+		"strategyTest": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": ""
+		},
+		"title": "",
+		"titles": {
+			"bestFinalPortfolio": "",
+			"bestInitialPortfolio": "",
+			"finalIndustryDist": "",
+			"finalSectorDist": "",
+			"howToApply": "",
+			"initialIndustryDist": "",
+			"initialSectorDist": "",
+			"investmentStrategy": "",
+			"monteCarloSimulations": "",
+			"stockPerformance": "",
+			"stockYearlyAvgMetrics": "",
+			"strategyTest": "",
+			"technicalMetrics": ""
+		}
+	},
+	"blackFriday": {
+		"2021": {
+			"boldText1": "",
+			"boldText2": "",
+			"boldText3": "",
+			"offerMessage": "",
+			"regularText": ""
+		},
+		"2022": {
+			"anniversary": "",
+			"code": {
+				"code": "",
+				"part1": "",
+				"part2": ""
+			},
+			"discount": "",
+			"end": "",
+			"plusAndPro": "",
+			"toast": {
+				"bold": "",
+				"regular": "",
+				"underlined": ""
+			}
+		},
+		"boldText1": "",
+		"boldText2": "",
+		"boldText3": "",
+		"offerMessage": "",
+		"regularText": ""
+	},
+	"breadCrumbs": {
+		"europeanMarket": "Mercado Europeo",
+		"home": "Inicio",
+		"investmentThemes": "",
+		"usMarket": "Mercado Estados Unidos"
+	},
+	"companyProfile": {
+		"address": "",
+		"btnTitle": "",
+		"employees": "Empleados",
+		"etfTitle": "",
+		"founded": "",
+		"industry": "",
+		"profileSummary": "",
+		"sector": "",
+		"title": "",
+		"website": ""
+	},
+	"companyTechnical": {
+		"52w": "",
+		"52wTooltip": "",
+		"assetClass": "",
+		"assetClassSize": "",
+		"assetClassStyle": "",
+		"brand": "",
+		"category": "",
+		"dividend": "",
+		"dividendTooltip": "",
+		"focus": "",
+		"fundFlows": "",
+		"fundFlowsTooltip": "",
+		"generalRegion": "",
+		"inception": "",
+		"indexTracked": "",
+		"issuer": "",
+		"marketcap": "",
+		"marketcapTooltip": "",
+		"niche": "",
+		"perfmonth": "",
+		"perfmonthTooltip": "",
+		"performance": "",
+		"perfquarter": "",
+		"perfquarterTooltip": "",
+		"perfweek": "",
+		"perfweekTooltip": "",
+		"perfyear": "",
+		"perfyearTooltip": "",
+		"perfytd": "",
+		"perfytdTooltip": "",
+		"shortinterest": "",
+		"shortinterestTooltip": "",
+		"specificRegion": "",
+		"totalAUM": "",
+		"totalAUMTooltip": "",
+		"totalER": "",
+		"totalERTooltip": "",
+		"turnoverRatio": "",
+		"turnoverRatioTooltip": "",
+		"volume": "",
+		"volumeTooltip": ""
+	},
+	"compareAllStocks": {
+		"link": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"table": {
+			"header": {
+				"aiscore": "",
+				"company": ""
+			},
+			"titleIndustry": "",
+			"titleOthers": "",
+			"titleSector": ""
+		},
+		"title": ""
+	},
+	"comparePage": {
+		"aiScoreEvolution": {
+			"selection": {
+				"aiScore": "",
+				"fundamental": "",
+				"sentiment": "",
+				"technical": ""
+			},
+			"subtitle": "",
+			"timeframe": {
+				"daily": "",
+				"monthly": "",
+				"title": "",
+				"weekly": ""
+			},
+			"title": ""
+		},
+		"alternative": {
+			"description": "",
+			"title": ""
+		},
+		"bestStocks": {
+			"euStocks": "",
+			"eudescription": "",
+			"rankedText": "",
+			"title": "",
+			"usStocks": "",
+			"usdescription": "",
+			"usdescription2": "",
+			"usdescriptionPercentage": ""
+		},
+		"buttons": {
+			"aiAnalysis": "",
+			"aiAnalysisMobile": "",
+			"alternatives1": "",
+			"alternatives2": "",
+			"register": ""
+		},
+		"description": "",
+		"fundamentals": {
+			"description": "",
+			"dividend": "",
+			"employees": "",
+			"income": "",
+			"pe": "",
+			"pfcf": "",
+			"ps": "",
+			"roe": "",
+			"sales": "",
+			"salesQq": "",
+			"title": ""
+		},
+		"marketcap": "",
+		"perfmonth": "",
+		"perfquarter": "",
+		"perfweek": "",
+		"perfyear": "",
+		"perfytd": "",
+		"priceEvolution": "",
+		"priceEvolutionSubtitle": "",
+		"scoresExplanation": {
+			"description": "",
+			"subtitle": "",
+			"table": {
+				"bin": "",
+				"odds": "",
+				"signal": "",
+				"significant": "",
+				"viewMore": ""
+			},
+			"title": ""
+		},
+		"searchBar": {
+			"searchNow": "",
+			"searchStocks": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"shortinterest": "",
+		"stockInfo": {
+			"close": "",
+			"readLess": "",
+			"readMore": "",
+			"subtitle": "",
+			"title": "",
+			"viewMore": ""
+		},
+		"stockInformation": "",
+		"subtitle": "",
+		"title": "",
+		"volume": "",
+		"vs": ""
+	},
+	"contact": {
+		"form": {
+			"email": "",
+			"errorEmail": "",
+			"errorFirstName": "",
+			"errorLastName": "",
+			"errorMessage": "",
+			"firstName": "",
+			"infoLink": "",
+			"infoText": "",
+			"lastName": "",
+			"message": "",
+			"submitButton": ""
+		},
+		"howItWorksButton": "",
+		"learn": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"subtitle": "",
+		"title": ""
+	},
+	"cookieConsent": {
+		"buttonAccept": "",
+		"buttonDecline": "",
+		"cookiePolicy": "",
+		"text": ""
+	},
+	"cookiePolicy": {
+		"section1": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"title": ""
+		},
+		"section2": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"section3": {
+			"paragraph1": {
+				"listItem1": "",
+				"paragraph": ""
+			},
+			"paragraph2": {
+				"listItem1": "",
+				"paragraph": "",
+				"sublist": {
+					"item1": "",
+					"item2": "",
+					"item3": ""
+				}
+			},
+			"paragraph3": "",
+			"title": ""
+		},
+		"section4": {
+			"item1": {
+				"link": "",
+				"name": ""
+			},
+			"item2": {
+				"link": "",
+				"name": ""
+			},
+			"item3": {
+				"link": "",
+				"name": ""
+			},
+			"item4": {
+				"link": "",
+				"name": ""
+			},
+			"item5": {
+				"link": "",
+				"name": ""
+			},
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"section5": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"countries": {
+		"argentina": "",
+		"australia": "",
+		"belgian": "",
+		"belgium": "",
+		"bermuda": "",
+		"brazil": "",
+		"canada": "",
+		"caymanIslands": "",
+		"china": "",
+		"danish": "",
+		"dutch": "",
+		"europe": "",
+		"finland": "",
+		"france": "",
+		"french": "",
+		"german": "",
+		"germany": "",
+		"hongKong": "",
+		"india": "",
+		"ireland": "",
+		"israel": "",
+		"itaian": "",
+		"japan": "",
+		"luxembourg": "",
+		"netherlands": "",
+		"singapore": "",
+		"southAfrica": "",
+		"spanish": "",
+		"sweden": "",
+		"swedish": "",
+		"swiss": "",
+		"switzerland": "",
+		"uk": "",
+		"unitedKingdom": "",
+		"unitedStates": "",
+		"usa": ""
+	},
+	"crowdcube": {
+		"modal": {
+			"button": "",
+			"description": "",
+			"descriptionError": "",
+			"title": ""
+		},
+		"section1": {
+			"form": {
+				"button": {
+					"interested": "",
+					"processing": "",
+					"success": ""
+				},
+				"disclaimer": {
+					"text0": "",
+					"text1": "",
+					"text2": "",
+					"title": ""
+				},
+				"dropdown": {
+					"item1": "",
+					"item2": "",
+					"item3": "",
+					"item4": "",
+					"item5": "",
+					"item6": "",
+					"title": ""
+				},
+				"emailPlaceholder": "",
+				"emailTitle": "",
+				"errors": {
+					"amount": "",
+					"email": "",
+					"name": "",
+					"robot": ""
+				},
+				"namePlaceholder": "",
+				"nameTitle": ""
+			},
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"title": ""
+		},
+		"section2": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"title": "",
+			"title2": ""
+		},
+		"section3": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"section4": {
+			"1": {
+				"description": "",
+				"number": "",
+				"title": ""
+			},
+			"2": {
+				"description": "",
+				"title": ""
+			},
+			"3": {
+				"description": "",
+				"title": ""
+			},
+			"4": "",
+			"5": {
+				"description": "",
+				"title": ""
+			},
+			"6": {
+				"description": "",
+				"descriptionBold": "",
+				"title": ""
+			},
+			"title": ""
+		},
+		"section5": {
+			"item1": {
+				"description": "",
+				"title": ""
+			},
+			"item10": {
+				"description": "",
+				"title": ""
+			},
+			"item11": {
+				"description": "",
+				"title": ""
+			},
+			"item2": {
+				"description": "",
+				"title": ""
+			},
+			"item3": {
+				"description": "",
+				"title": ""
+			},
+			"item4": {
+				"description": "",
+				"title": ""
+			},
+			"item5": {
+				"description": "",
+				"title": ""
+			},
+			"item6": {
+				"description": "",
+				"title": ""
+			},
+			"item7": {
+				"description": "",
+				"title": ""
+			},
+			"item8": {
+				"description": "",
+				"title": ""
+			},
+			"item9": {
+				"description": "",
+				"title": ""
+			},
+			"title": ""
+		},
+		"section6": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"toastMessage": {
+			"boldText": "",
+			"button": "",
+			"regularText": ""
+		}
+	},
+	"disclaimer": {
+		"I": "",
+		"II": "",
+		"III": "",
+		"IV": "",
+		"IX": "",
+		"V": "",
+		"VI": "",
+		"VII": "",
+		"VIII": "",
+		"XI": "",
+		"XII": "",
+		"X_paragraph1": "",
+		"X_paragraph2": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"subTitle": "",
+		"title": ""
+	},
+	"error": {
+		"noData": "",
+		"seo": {
+			"metaDescription500": "",
+			"title500": ""
+		},
+		"tryAgain": ""
+	},
+	"etfs": {
+		"breadCrumb": "",
+		"description": "",
+		"filters": {
+			"any": "",
+			"assetClass": "",
+			"filterETFs": "",
+			"focus": "",
+			"indexName": "",
+			"more": "",
+			"region": "",
+			"strategy": ""
+		},
+		"focusSeo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": "",
+		"titleFocus": ""
+	},
+	"faq": {
+		"etfsAnswers": {
+			"etfAUM": "",
+			"etfBuyOrSell": "",
+			"etfDividendNo": "",
+			"etfDividendYes": "",
+			"etfExplanation": "",
+			"etfGoUp": "",
+			"etfOutstanding": "",
+			"etfOverbought": "",
+			"etfPref3": "",
+			"etfPrice": "",
+			"etfPrice12M": ""
+		},
+		"etfsQuestions": {
+			"etfAUM": "",
+			"etfBuyOrSell": "",
+			"etfDividend": "",
+			"etfExplanation": "",
+			"etfGoUp": "",
+			"etfOutstanding": "",
+			"etfOverbought": "",
+			"etfPref3": "",
+			"etfPrice": "",
+			"etfPrice12M": ""
+		},
+		"tickerAnswers": {
+			"buyOrSell": "",
+			"dividendYieldNo": "",
+			"dividendYieldYes": "",
+			"earningsDate": "",
+			"last3Months": "",
+			"marketCap": "",
+			"priceRange": "",
+			"stockGoesUp": "",
+			"targetPrice": "",
+			"tickerUndervalued": "",
+			"tickerUndervaluedDown": "",
+			"tickerUndervaluedUp": ""
+		},
+		"tickerQuestions": {
+			"buyOrSell": "",
+			"dividendYield": "",
+			"dynamicQuestion": "",
+			"dynamicQuestionDown": "",
+			"dynamicQuestionUp": "",
+			"earningsDate": "",
+			"last3Months": "",
+			"marketCap": "",
+			"priceRange": "",
+			"stockGoesUp": "",
+			"targetPrice": "",
+			"tickerUndervalued": ""
+		},
+		"title": ""
+	},
+	"fixedOffer": {
+		"save50": "",
+		"startNow": "",
+		"tryFree14": "",
+		"tryFree14Short": ""
+	},
+	"footer": {
+		"address": {
+			"bcn": {
+				"address1": "",
+				"address2": "",
+				"city": "",
+				"title": ""
+			},
+			"nyc": {
+				"address1": "",
+				"address2": "",
+				"city": "",
+				"title": ""
+			}
+		},
+		"authorization": "",
+		"bottom-navbar": {
+			"home": "",
+			"markets": "",
+			"portfolios": ""
+		},
+		"bottomNavbar": {
+			"etfs": "",
+			"home": "",
+			"markets": "",
+			"portfolios": "",
+			"trade": ""
+		},
+		"button": "",
+		"company": "",
+		"legal": {
+			"bottomText": "",
+			"bottomText1": "",
+			"bottomText2": "",
+			"bottomText3": "",
+			"disclaimer": "",
+			"privacy": "",
+			"terms": ""
+		},
+		"nav": {
+			"about": "",
+			"affiliate": "",
+			"aiscore": "",
+			"blog": "",
+			"company": "",
+			"contact": "",
+			"help": "",
+			"home": "",
+			"how": "",
+			"join": "",
+			"login": "",
+			"logout": "",
+			"myPortfolios": "",
+			"newsletter": "",
+			"plans": "",
+			"resources": "",
+			"shop": "",
+			"upgrade": ""
+		},
+		"placeholder": "",
+		"popularComparisons": "",
+		"popularInvestmentThemes": "",
+		"popularSearches": "",
+		"rankings": "",
+		"subscribe": "",
+		"topStocks": "",
+		"tops": {
+			"belgian": "",
+			"brazilian": "",
+			"canadian": "",
+			"chinese": "",
+			"danish": "",
+			"dutch": "",
+			"european": "",
+			"french": "",
+			"german": "",
+			"italian": "",
+			"spanish": "",
+			"swedish": "",
+			"swiss": "",
+			"uk": "",
+			"us": ""
+		}
+	},
+	"forgotPassword": {
+		"check": "",
+		"continue": "",
+		"email": "",
+		"error": "",
+		"placeholder": "",
+		"return": "",
+		"subtitle": "",
+		"title": ""
+	},
+	"generals": {
+		"close": "",
+		"exportCsv": "",
+		"freeTrialEnding": "",
+		"lastupdate": "",
+		"limits": {
+			"comparisionLimitation": {
+				"comparisionLimitationDescription": "",
+				"comparisionLimitationTitle": ""
+			},
+			"industryLimitation": {
+				"industryLimitationDescription": "",
+				"industryLimitationTitle": "",
+				"industryListLimitationDescription": "",
+				"industryListLimitationTitle": ""
+			},
+			"investmentThemesLimitation": {
+				"investmentThemesDescription": "",
+				"investmentThemesListDescription": "",
+				"investmentThemesListTitle": "",
+				"investmentThemesTitle": "",
+				"relatedInvestmentThemesLimitationDescription": "",
+				"relatedInvestmentThemesLimitationTitle": ""
+			},
+			"limitationModalButton": "",
+			"limitationModalButtonPro": "",
+			"limitationModalCancelText": "",
+			"limitationModalCompareText": "",
+			"limitationModalFreeTrailText": "",
+			"limitationModalImageDescription": "",
+			"limitationModalImageFooter": "",
+			"limitationModalImageTitle": "",
+			"limitationModalPlansAndPricingText": "",
+			"limitationModalProTrialText": "",
+			"limitsMessage1": "",
+			"limitsMessage1a": "",
+			"limitsMessage1b": "",
+			"limitsModalDescription": "",
+			"limitsModalDescriptionBold": "",
+			"limitsModalTitle": "",
+			"portfolioLimitation": {
+				"plusUserButton": "",
+				"portfolioPage": {
+					"freeUser": "",
+					"plusUser": "",
+					"title": ""
+				},
+				"portfolioStockPage": {
+					"freeUser": "",
+					"plusUser": "",
+					"title": ""
+				}
+			},
+			"sectorLimitation": {
+				"sectorLimitationDescription": "",
+				"sectorLimitationTitle": "",
+				"sectorListLimitationDescription": "",
+				"sectorListLimitationTitle": ""
+			},
+			"stockListLimitation": {
+				"stockListLimitationDescription": "",
+				"stockListLimitationTitle": ""
+			},
+			"tickerPageLimitation": {
+				"tickerPageLimitationDescription": "",
+				"tickerPageLimitationDescriptionPro": "",
+				"tickerPageLimitationTitle": ""
+			},
+			"topCountryLimitation": {
+				"topCountryLimitationDescription": "",
+				"topCountryLimitationTitle": ""
+			},
+			"topEtfsLimitation": {
+				"topEtfsLimitationDescription": "",
+				"topEtfsLimitationTitle": ""
+			},
+			"tradeIdeasLimitation": {
+				"tradeIdeasLimitationDescription": "",
+				"tradeIdeasLimitationTitle": ""
+			}
+		},
+		"markets": {
+			"eu": "",
+			"us": ""
+		},
+		"na": "",
+		"nav": {
+			"aiscore": "",
+			"fundamentals": "",
+			"sentiment": "",
+			"technical": ""
+		},
+		"promos": {
+			"anniversary": {
+				"message1": "",
+				"underlined": ""
+			},
+			"blackFriday": {
+				"banner": {
+					"checkout": "",
+					"code": "",
+					"description": "",
+					"discount": "",
+					"lastDay": "",
+					"only": "",
+					"title": ""
+				},
+				"lastDay": "",
+				"regular1": "",
+				"regular2": "",
+				"toast": {
+					"desktopText": "",
+					"mobileText": ""
+				},
+				"underlined": ""
+			},
+			"christmas": {
+				"bold": "",
+				"regular": "",
+				"underlined": ""
+			},
+			"countdown": {
+				"days": "",
+				"hours": "",
+				"minutes": "",
+				"seconds": ""
+			},
+			"easter2023": {
+				"banner": {
+					"code": "",
+					"lastDay": "",
+					"title": ""
+				},
+				"lastDay": "",
+				"regular1": "",
+				"regular2": "",
+				"underlined": ""
+			},
+			"halloween": {
+				"banner": {
+					"checkout": "",
+					"code": "",
+					"description": "",
+					"discount": "",
+					"lastDay": "",
+					"only": "",
+					"title": ""
+				},
+				"lastDay": "",
+				"regular1": "",
+				"regular2": "",
+				"underlined": ""
+			},
+			"laborDay": {
+				"banner": {
+					"checkout": "",
+					"code": "",
+					"description": "",
+					"discount": "",
+					"only": "",
+					"title": "",
+					"validity": ""
+				},
+				"toast": {
+					"text": ""
+				}
+			},
+			"memorial24": {
+				"banner": {
+					"code": "",
+					"lastDay": "",
+					"title": ""
+				},
+				"lastDay": "",
+				"regular1": "",
+				"regular2": "",
+				"toast": {
+					"saleName": ""
+				},
+				"underlined": "",
+				"validity": ""
+			},
+			"newYear": {
+				"ny2024": {
+					"banner": {
+						"checkout": "",
+						"code": "",
+						"description": "",
+						"discount": "",
+						"only": "",
+						"title": "",
+						"underlined": "",
+						"validity": ""
+					},
+					"toast": {
+						"desktopText": "",
+						"mobileText": ""
+					}
+				}
+			},
+			"q3Earnings2024": {
+				"banner": {
+					"checkout": "",
+					"code": "",
+					"discount": "",
+					"only": "",
+					"title": "",
+					"titleLien1": "",
+					"titleLien2": "",
+					"validity": ""
+				},
+				"toast": {
+					"saleNameDesktop": "",
+					"saleNameMobile": ""
+				},
+				"underlined": ""
+			},
+			"saveNow": "",
+			"tradeIdeas": {
+				"banner": {
+					"checkout": "",
+					"code": "",
+					"description": "",
+					"only": "",
+					"title": ""
+				},
+				"toast": {
+					"text": ""
+				}
+			}
+		},
+		"registrationModal": {
+			"description": "",
+			"leftSide": {
+				"description": "",
+				"footNoteDesktop": "",
+				"footNoteMobile": "",
+				"title": "",
+				"viewLess": "",
+				"viewMore": ""
+			},
+			"or": "",
+			"registerNow": "",
+			"title": ""
+		},
+		"tooltips": {
+			"aiscore": "",
+			"change": "",
+			"company": "",
+			"country": "",
+			"created": "",
+			"dailyAlerts": "",
+			"diversity": "",
+			"etf": "",
+			"focus": "",
+			"fundamental": "",
+			"gain": "",
+			"gainAverage": "",
+			"industry": "",
+			"industryFocus": "",
+			"investment": "",
+			"investmentTheme": "",
+			"lowrisk": "",
+			"num_companies": "",
+			"rank": "",
+			"region": "",
+			"relevance": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": "",
+			"ticker": ""
+		},
+		"upgrade": {
+			"registerForFree": "",
+			"upgradeToPro": "",
+			"upgradeToUnlock": ""
+		},
+		"validateEmailMessage": {
+			"24hverificationText": "",
+			"alreadyValidated": "",
+			"close": "",
+			"expired": "",
+			"resend": "",
+			"validated": "",
+			"verificationEmail": ""
+		},
+		"viewAll": ""
+	},
+	"genericTable": {
+		"average": "",
+		"choose": "",
+		"columnHeaders": {
+			"aiscore": "",
+			"assetClass": "",
+			"assetClassFocus": "",
+			"change": "",
+			"company": "",
+			"country": "",
+			"etf": "",
+			"focus": "",
+			"fundamental": "",
+			"gain": "",
+			"indexName": "",
+			"industry": "",
+			"industryFocus": "",
+			"investment": "",
+			"lowrisk": "",
+			"numCompanies": "",
+			"rank": "",
+			"region": "",
+			"relevance": "",
+			"risk": "",
+			"sector": "",
+			"sentiment": "",
+			"strategy": "",
+			"technical": "",
+			"ticker": ""
+		},
+		"dropdownTecnicalData": {
+			"alpha_half": "",
+			"alpha_halfyear": "",
+			"alpha_month": "",
+			"alpha_quarter": "",
+			"alpha_week": "",
+			"alpha_year": "",
+			"alpha_ytd": "",
+			"avg_volume": "",
+			"beta": "",
+			"dividend_yield": "",
+			"expense_ratio": "",
+			"finviz_beta": "",
+			"finviz_dividend_pct": "",
+			"finviz_market_cap": "",
+			"finviz_p_fcf": "",
+			"finviz_pe": "",
+			"finviz_roe": "",
+			"finviz_roi": "",
+			"high_52w": "",
+			"index": "",
+			"low_52w": "",
+			"market_cap": "",
+			"num_casos_3m": "",
+			"pe": "",
+			"perf_half": "",
+			"perf_halfyear": "",
+			"perf_month": "",
+			"perf_quarter": "",
+			"perf_week": "",
+			"perf_year": "",
+			"perf_ytd": "",
+			"pfcf": "",
+			"price": "",
+			"roe": "",
+			"roi": "",
+			"short_interest": "",
+			"tooltips": {
+				"alpha_halfyear": "",
+				"alpha_month": "",
+				"alpha_quarter": "",
+				"alpha_week": "",
+				"alpha_year": "",
+				"alpha_ytd": "",
+				"beta": "",
+				"dividend_yield": "",
+				"market_cap": "",
+				"pe": "",
+				"perf_halfyear": "",
+				"perf_month": "",
+				"perf_quarter": "",
+				"perf_week": "",
+				"perf_year": "",
+				"perf_ytd": "",
+				"pfcf": "",
+				"price": "",
+				"roe": "",
+				"roi": ""
+			},
+			"total_assets_under_management": "",
+			"turnover_ratio": "",
+			"volume": "",
+			"weighted_average_pe_ratio": "",
+			"year_1_fund_level_flows": ""
+		},
+		"firstPage": "",
+		"lastPage": "",
+		"nextPage": "",
+		"noEntriesName": "",
+		"noStocksOnTable": "",
+		"noStocksPortfolio": "",
+		"noStocksPortfolioAdd": "",
+		"noTickers": "",
+		"noTickersOnTable": "",
+		"pagination": "",
+		"paginationEtf": "",
+		"paginationEtfStocksWFilterAZ": "",
+		"paginationPopularComparisions": "",
+		"paginationPopularInvestmentThemes": "",
+		"paginationPopularSearches": "",
+		"paginationStocksOrEtfs": "",
+		"previousPage": "",
+		"stocks": ""
+	},
+	"historicalAiScore": {
+		"aiScore1": "",
+		"aiScore10": "",
+		"occurrence": "",
+		"price": "",
+		"title": ""
+	},
+	"home": {
+		"aiAnalizes": "",
+		"aiScore": "",
+		"best": "",
+		"bestStocksRankings": {
+			"section1": {
+				"description1": "",
+				"description2": "",
+				"title": ""
+			},
+			"section2": {
+				"description": "",
+				"title": ""
+			}
+		},
+		"dataAnaized": {
+			"aiScore": "",
+			"billion": "",
+			"howItWorks": "",
+			"indicators": "",
+			"learn": "",
+			"points": "",
+			"summary": "",
+			"title": ""
+		},
+		"etfs": "",
+		"europe": "",
+		"featured": "",
+		"fullrankingCountry": "",
+		"fullrankingEu": "",
+		"fullrankingSpain": "",
+		"fullrankingUs": "",
+		"future": {
+			"description1": "",
+			"description2": "",
+			"title": "",
+			"why": ""
+		},
+		"go": "",
+		"identify": {
+			"description": "",
+			"title": ""
+		},
+		"improveNow": "",
+		"joinForFree": "",
+		"joinForFreePortfolio": "",
+		"mediumTerm": "",
+		"performance": "",
+		"performanceDescription": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": ""
+		},
+		"pick": {
+			"description": "",
+			"title": ""
+		},
+		"popular": "",
+		"probability": "",
+		"probabilityLevels": {
+			"average": "",
+			"heigh": "",
+			"low": ""
+		},
+		"professional": "",
+		"rankings": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"smarterInvestment": {
+			"button": "",
+			"description": "",
+			"title": ""
+		},
+		"spain": "",
+		"stockTables": {
+			"etfs": {
+				"description": "",
+				"footer": "",
+				"title": ""
+			},
+			"topStocks": {
+				"description": "",
+				"footer": "",
+				"title": ""
+			}
+		},
+		"topCountry": "",
+		"topStocksIn": "",
+		"topSubtitle": "",
+		"topTitle": "",
+		"topUsa": "",
+		"track": {
+			"description": "",
+			"title": ""
+		},
+		"trade": "",
+		"understand": {
+			"description": "",
+			"title": ""
+		},
+		"usa": "",
+		"useCases": {
+			"case1": {
+				"description": "",
+				"title": ""
+			},
+			"case2": {
+				"description": "",
+				"title": ""
+			},
+			"case3": {
+				"description": "",
+				"title": ""
+			},
+			"case4": {
+				"description": "",
+				"title": ""
+			},
+			"case5": {
+				"description": "",
+				"title": ""
+			},
+			"case_2": {
+				"description": {
+					"link": "",
+					"text1": "",
+					"text2": ""
+				},
+				"title": ""
+			},
+			"title": ""
+		},
+		"useCasesNew": {
+			"case1": {
+				"description1": "",
+				"link": "",
+				"title": ""
+			},
+			"case2": {
+				"description1": "",
+				"description2": "",
+				"link": "",
+				"title": ""
+			},
+			"case3": {
+				"description1": "",
+				"description2": "",
+				"link": "",
+				"title": ""
+			},
+			"case4": {
+				"description1": "",
+				"link": "",
+				"title": ""
+			},
+			"case5": {
+				"description1": "",
+				"description2": "",
+				"link": "",
+				"title": ""
+			},
+			"case6": {
+				"description1": "",
+				"description2": "",
+				"link": "",
+				"title": ""
+			},
+			"title": ""
+		},
+		"usersSay": {
+			"title": "",
+			"user1": {
+				"description": "",
+				"name": ""
+			}
+		},
+		"videoLinkHome": ""
+	},
+	"howItWorks": {
+		"diagram": {
+			"seo": {
+				"metaDescription": "",
+				"title": ""
+			},
+			"tooltipAiScoreCalculation": {
+				"description": "",
+				"title": ""
+			},
+			"tooltipDataAnalysis": {
+				"description1": "",
+				"description2": "",
+				"title": ""
+			},
+			"tooltipDataCollection": {
+				"description": "",
+				"title": ""
+			},
+			"tooltipDecissionTrees": {
+				"description": "",
+				"title": ""
+			},
+			"tooltipProbability": {
+				"description": "",
+				"title": ""
+			}
+		},
+		"fundamentalSection": {
+			"paragraph1": {
+				"bold1": "",
+				"bold2": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph2": "",
+			"paragraph3": "",
+			"smallTextBelowImage": "",
+			"title": ""
+		},
+		"fundamentalsSection": {
+			"paragraph01": {
+				"bold1": "",
+				"bold2": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"smallTextBelowImage": "",
+			"title": ""
+		},
+		"performanceSection": {
+			"paragraph1": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph2": {
+				"bold": "",
+				"link": "",
+				"regular": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph3": {
+				"link": "",
+				"regular": ""
+			},
+			"paragraph4": "",
+			"paragraph_1": "",
+			"tableTitle": "",
+			"textBelowImage": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"paragraph3": ""
+			},
+			"title": ""
+		},
+		"resultsSection": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"smallTextBelowImage": "",
+			"title": ""
+		},
+		"scoresAsignationSection": {
+			"paragraph01": {
+				"bold": {
+					"link1": "",
+					"link2": "",
+					"text1": "",
+					"text2": "",
+					"text3": ""
+				},
+				"regular": ""
+			},
+			"paragraph1": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph2": {
+				"bold": "",
+				"regular01": {
+					"link": "",
+					"text1": "",
+					"text2": ""
+				},
+				"regular1": "",
+				"regular2": ""
+			},
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"successSection": {
+			"paragraph002": {
+				"link": "",
+				"text": ""
+			},
+			"paragraph02": "",
+			"paragraph04": {
+				"link": "",
+				"text": ""
+			},
+			"paragraph1": "",
+			"paragraph2": {
+				"bold": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph2_": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"paragraph5": {
+				"calculation": "",
+				"calculationBold": "",
+				"days": "",
+				"daysBold": "",
+				"range": "",
+				"rangeBold": "",
+				"size": "",
+				"sizeBold": "",
+				"universe": "",
+				"universeBold": ""
+			},
+			"paragraph6": {
+				"calculation": "",
+				"days": "",
+				"link": "",
+				"range": "",
+				"regular1": "",
+				"regular2": "",
+				"size": "",
+				"universe": ""
+			},
+			"paragraph_3": {
+				"calculation": "",
+				"calculationBold": "",
+				"days": "",
+				"daysBold": "",
+				"range": "",
+				"rangeBold": "",
+				"size": "",
+				"sizeBold": "",
+				"universe": "",
+				"universeBold": ""
+			},
+			"title": ""
+		},
+		"technologySection": {
+			"paragraph01": {
+				"link": "",
+				"text1": "",
+				"text2": ""
+			},
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph5": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph6": {
+				"bold": "",
+				"regular": ""
+			},
+			"title": ""
+		},
+		"title": "",
+		"titleMobile": "",
+		"topSection": {
+			"paragraph06": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph1": {
+				"bold": "",
+				"bold1": "",
+				"bold2": "",
+				"regular": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph2": "",
+			"paragraph3": {
+				"bold": "",
+				"regular": "",
+				"regular01": {
+					"link1": "",
+					"link2": "",
+					"link3": "",
+					"text1": "",
+					"text2": "",
+					"text3": "",
+					"text4": ""
+				},
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph3title": "",
+			"paragraph4": {
+				"bold": "",
+				"regular": "",
+				"regular1": {
+					"link1": "",
+					"link2": "",
+					"link3": "",
+					"text1": "",
+					"text2": "",
+					"text3": "",
+					"text4": ""
+				}
+			},
+			"paragraph5": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph6": "",
+			"paragraph7": "",
+			"paragraph8": "",
+			"smallTextBelowImage": ""
+		},
+		"tradeIdeasSection": {
+			"paragraph1": {
+				"link": "",
+				"regular1": "",
+				"regular2": ""
+			},
+			"paragraph2": "",
+			"title": ""
+		},
+		"understandingSection": {
+			"paragraph1": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph2": "",
+			"smallTextBelowImage": "",
+			"title": ""
+		},
+		"useCasesSection": {
+			"section1": {
+				"paragraph1": {
+					"bold": "",
+					"bold1": {
+						"link": "",
+						"text": ""
+					},
+					"regular": ""
+				},
+				"paragraph2": {
+					"bold": "",
+					"bold1": {
+						"link": "",
+						"text": ""
+					},
+					"regular1": "",
+					"regular2": ""
+				},
+				"paragraph3": "",
+				"subtitle": ""
+			},
+			"section2": {
+				"paragraph1": "",
+				"paragraph2": {
+					"bold": "",
+					"regular": ""
+				},
+				"paragraph3": "",
+				"smallTextBelowImage": "",
+				"subtitle": ""
+			},
+			"title": ""
+		}
+	},
+	"industries": {
+		"columnHeaders": {
+			"fundamental": "",
+			"industries": "",
+			"no-entries": "",
+			"numCompanies": "",
+			"rank": "",
+			"sentiment": "",
+			"smartScore": "",
+			"technical": ""
+		},
+		"entries": "",
+		"entry": "",
+		"filteredFrom": "",
+		"of": "",
+		"results": "",
+		"search": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"showing": "",
+		"to": "",
+		"tooltips": {
+			"aiscore": "",
+			"country": "",
+			"fundamental": "",
+			"num_companies": "",
+			"rank": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": ""
+		},
+		"totalEntries": ""
+	},
+	"investmentThemes": {
+		"description": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"isABuy": {
+		"alphaSignals": {
+			"fundamental": {
+				"description": "",
+				"score": "",
+				"title": ""
+			},
+			"sentiment": {
+				"description": "",
+				"score": "",
+				"title": ""
+			},
+			"technical": {
+				"description": "",
+				"score": "",
+				"title": ""
+			}
+		},
+		"analysis": {
+			"lastUpdate": "",
+			"title": ""
+		},
+		"bestAlternatives": {
+			"description": "",
+			"title": ""
+		},
+		"besttobuy": {
+			"button": ""
+		},
+		"companyDescription": "",
+		"conclusion": {
+			"explanation": {
+				"paragraph1": {
+					"regular1": "",
+					"regular2": ""
+				},
+				"paragraph2": ""
+			},
+			"title": ""
+		},
+		"data": {
+			"fundamental": {
+				"description": "",
+				"items": {
+					"dividend": "",
+					"employees": "",
+					"income": "",
+					"marketCap": "",
+					"pe": "",
+					"pfcf": "",
+					"ps": "",
+					"roe": "",
+					"sales": "",
+					"salesqq": ""
+				},
+				"title": ""
+			},
+			"sentiment": {
+				"description": "",
+				"title": ""
+			}
+		},
+		"evolution": {
+			"description": "",
+			"period": {
+				"1m": "",
+				"1y": "",
+				"3m": "",
+				"5y": "",
+				"all": ""
+			},
+			"technicalName": {
+				"closing": "",
+				"currency": "",
+				"perfQuarter": "",
+				"perfWeek": "",
+				"perfYTD": "",
+				"perfYear": "",
+				"volume": ""
+			},
+			"title": ""
+		},
+		"scores": {
+			"description": "",
+			"title": ""
+		},
+		"seeAllAnalysis": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": "",
+		"viewMore": ""
+	},
+	"latestNews": {
+		"title": "",
+		"viewLess": "",
+		"viewMore": ""
+	},
+	"login": {
+		"and": "",
+		"button": "",
+		"email": "",
+		"emailPlaceholder": "",
+		"forgot": "",
+		"freeAccount": "",
+		"login": "",
+		"loginErrorMessages": {
+			"emailErrorMessage": "",
+			"loginErrorMessage": "",
+			"passwordErrorMessage": ""
+		},
+		"notMember": "",
+		"or": "",
+		"password": "",
+		"passwordPlaceholder": "",
+		"privacy": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"terms": "",
+		"termsOfUse": ""
+	},
+	"memorialDay": {
+		"2024": {
+			"code": {
+				"code": "",
+				"only": "",
+				"part1": "",
+				"part2": "",
+				"validity": ""
+			},
+			"discount": "",
+			"end": "",
+			"lastTitle": "",
+			"plans": "",
+			"timeframe": "",
+			"title": "",
+			"toast": {
+				"desktopText": "",
+				"lastSaleName": "",
+				"mobileText": "",
+				"saleName": "",
+				"target": "",
+				"underlined": ""
+			},
+			"upgrade": ""
+		}
+	},
+	"myPortfolios": {
+		"addManually": "",
+		"addStocks": "",
+		"average": "",
+		"bulkMsg": {
+			"ceroStocks": "",
+			"ceroStocks1": "",
+			"tooMany": "",
+			"tooMany1": ""
+		},
+		"bulkPlaceholder": "",
+		"bulkPlaceholderPlus": "",
+		"cancel": "",
+		"change": "",
+		"create": "",
+		"createButton": "",
+		"createFirst": "",
+		"createNew": "",
+		"created": "",
+		"dailyAlerts": "",
+		"errorEmpty": "",
+		"errorEmptyName": "",
+		"errorReachedLimit": "",
+		"errorReachedLimit2": "",
+		"errorReachedLimitBasic": "",
+		"errorReachedLimitPlus": "",
+		"errorRepeated": "",
+		"euMarket": "",
+		"freePlan": "",
+		"fundamental": "",
+		"goEu": "",
+		"goUs": "",
+		"identified": "",
+		"lowRisk": "",
+		"myPortfolios": "",
+		"name": "",
+		"new": "",
+		"newStock": "",
+		"newStocks": "",
+		"numberOfCompanies": "",
+		"ok": "",
+		"plusPlan": "",
+		"sentiment": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"singleStockInProPortfolio": "",
+		"stocksPerPortfolio": "",
+		"stocksPerPortfolioPro": "",
+		"technical": "",
+		"text": "",
+		"usMarket": ""
+	},
+	"navbar": {
+		"account": {
+			"account": ""
+		},
+		"anchorTitles": {
+			"euStocks": "",
+			"usStocks": ""
+		},
+		"buttons": {
+			"freeTrial": "",
+			"join": "Únete gratis",
+			"login": "",
+			"loging": "Iniciar Sesión",
+			"tryFree14Days": "",
+			"upgrade": ""
+		},
+		"dropdownMenu": {
+			"email": "",
+			"freeTrial": "",
+			"freeUserFreeTrail": "",
+			"logout": "",
+			"more": {
+				"aboutUs": "",
+				"bestStocksStrategy": "",
+				"contactUs": "",
+				"helpCenter": "",
+				"howItWorks": "",
+				"title": ""
+			},
+			"myPortfolios": "",
+			"plan": "",
+			"subscription": "",
+			"topStocks": {
+				"europe": "",
+				"industries": "",
+				"investmentThemes": "",
+				"sectors": "",
+				"title": "",
+				"topEtfs": "",
+				"topStocks": "",
+				"tradeIdeas": "",
+				"usa": ""
+			},
+			"trialEnded": "",
+			"userSett": ""
+		},
+		"etfsRanking": "",
+		"filterButtons": {
+			"all": "",
+			"etfs": "",
+			"groups": "",
+			"stocks": "",
+			"stocksEtfs": ""
+		},
+		"groupsGICS": {
+			"iThemes": "",
+			"industry": "",
+			"sector": ""
+		},
+		"menu": {
+			"about": "",
+			"aiscore": "AI Score",
+			"company": "Compañía",
+			"contact": "",
+			"faq": "",
+			"help": "",
+			"howItWorks": "",
+			"more": "",
+			"plans": "Planes & Precios",
+			"portfolios": "",
+			"resources": "Recursos",
+			"smartScore": "",
+			"topStocks": "",
+			"tradeIdeas": ""
+		},
+		"newSearchDesktop": "",
+		"newSearchMobile": "",
+		"newSearchMobileSearchBar": "",
+		"notFound": {
+			"searchNF": "",
+			"searchNFDesc": "",
+			"searchNFInSection": "",
+			"searchNFSection": "",
+			"searchNFSection1": ""
+		},
+		"popularSearches": "",
+		"popularSections": "",
+		"search": "Buscar ticker o compañía",
+		"searchBarPlaceholder": "",
+		"searchEtf": "",
+		"searchMobileHeader": "",
+		"searchToCompare": "",
+		"stocksRanking": "",
+		"titleGroups": "",
+		"titleStocks": "",
+		"titleStocksEtfs": "",
+		"tooltips": {
+			"buyTids": "",
+			"inPortfolio": "",
+			"sellTids": ""
+		},
+		"tradeIdeas": ""
+	},
+	"pageNotFound": {
+		"opps": "",
+		"pageNF": "",
+		"searchOthers": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"text": ""
+	},
+	"pastPerformance": {
+		"buy": "",
+		"description": {
+			"text1": "",
+			"text2": "",
+			"text3": "",
+			"text4": "",
+			"textBold1": "",
+			"textBold2": ""
+		},
+		"loss": "",
+		"negative": "",
+		"positive": "",
+		"sell": "",
+		"table": {
+			"1month": "",
+			"1year": "",
+			"3months": "",
+			"6months": "",
+			"alpha": "",
+			"negative": "",
+			"pastSignals": "",
+			"percent": "",
+			"performance": "",
+			"positive": "",
+			"rate": "",
+			"tooltips": {
+				"alphaPerc": "",
+				"avgAlpha": "",
+				"avgPerf": "",
+				"out": "",
+				"ratePerc": "",
+				"under": ""
+			}
+		},
+		"title": "",
+		"win": ""
+	},
+	"pastSignalsPerformance": {
+		"description": "",
+		"table": {
+			"average": "",
+			"head": {
+				"aiScore": "",
+				"alpha1m": "",
+				"alpha3m": "",
+				"alpha6m": "",
+				"date": "",
+				"perf1m": "",
+				"perf3m": "",
+				"perf6m": "",
+				"tooltips": {
+					"aiScore": "",
+					"alpha": "",
+					"date": "",
+					"perf": ""
+				}
+			},
+			"noData": "",
+			"pagination": ""
+		},
+		"title": ""
+	},
+	"paymentSuccess": {
+		"back": "",
+		"congratsPlus": "",
+		"congratsPro": "",
+		"congratsTrial": "",
+		"featuresList": {
+			"plus": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": ""
+			},
+			"pro": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": ""
+			},
+			"titlePlus": "",
+			"titlePro": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"paymentSuccessApi": {
+		"back": "",
+		"congratsBasic": "",
+		"congratsElite": "",
+		"congratsExpert": "",
+		"featuresList": {
+			"basic": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": "",
+				"7": ""
+			},
+			"elite": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": "",
+				"7": ""
+			},
+			"expert": {
+				"1": "",
+				"2": "",
+				"3": "",
+				"4": "",
+				"5": "",
+				"6": "",
+				"7": ""
+			},
+			"titleBasic": "",
+			"titleElite": "",
+			"titleExpert": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"performanceTicker": {
+		"perfQuarter": "",
+		"perfQuarterTooltip": "",
+		"perfWeek": "",
+		"perfWeekTooltip": "",
+		"perfYTD": "",
+		"perfYTDTooltip": "",
+		"perfYear": "",
+		"perfYearTooltip": "",
+		"performanceText": ""
+	},
+	"plansAndPricing": {
+		"api": "",
+		"buttons": {
+			"free": {
+				"start": ""
+			},
+			"plus": {
+				"start": "",
+				"startTrial": "",
+				"startTrialShort": "",
+				"upgrade": ""
+			},
+			"pro": {
+				"start": "",
+				"startTrial": "",
+				"startTrialShort": "",
+				"upgrade": ""
+			}
+		},
+		"compare": {
+			"title": ""
+		},
+		"contactUs1": "",
+		"contactUs2": "",
+		"contactUs3": "",
+		"currentPlan": "",
+		"description": "",
+		"description1": "",
+		"description2": "",
+		"faq": {
+			"answer1": "",
+			"answer2": "",
+			"answer3": "",
+			"answer4": "",
+			"answer5": "",
+			"answer6": {
+				"paragraph1": {
+					"link1": "",
+					"link2": "",
+					"text1": "",
+					"text2": "",
+					"text3": ""
+				},
+				"paragraph2": "",
+				"paragraph3": ""
+			},
+			"question1": "",
+			"question2": "",
+			"question3": "",
+			"question4": "",
+			"question5": "",
+			"question6": "",
+			"title": ""
+		},
+		"freeTrial": "",
+		"investmentTable": {
+			"row1": "",
+			"row10": "",
+			"row11": "",
+			"row12": "",
+			"row13": "",
+			"row14": "",
+			"row15": "",
+			"row16": "",
+			"row17": "",
+			"row2": "",
+			"row3": "",
+			"row4": "",
+			"row5": "",
+			"row6": "",
+			"row7": "",
+			"row8": "",
+			"row9": "",
+			"title": ""
+		},
+		"month": "",
+		"portfolioManagementTable": {
+			"row1": "",
+			"row2": "",
+			"row3": "",
+			"row4": "",
+			"row5": "",
+			"row6": "",
+			"row7": "",
+			"row8": "",
+			"title": ""
+		},
+		"register": "",
+		"save": "",
+		"saveInfo": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"stockAnalysisTable": {
+			"row1": "",
+			"row10": "",
+			"row11": "",
+			"row12": "",
+			"row13": "",
+			"row14": "",
+			"row15": "",
+			"row2": "",
+			"row3": "",
+			"row4": "",
+			"row5": "",
+			"row6": "",
+			"row7": "",
+			"row8": "",
+			"row9": "",
+			"title": ""
+		},
+		"table": {
+			"currency": "",
+			"descriptions": {
+				"alerts": "",
+				"alphaSignals": "",
+				"alphaSignalsPerStock": "",
+				"alphaSignalsTechFundaSenti": "",
+				"alphaSignasSubscores": "",
+				"coverage": "",
+				"csv": "",
+				"explainableAi": "",
+				"newsletter": "",
+				"numberOfPortfolios": "",
+				"numberOfStocks": "",
+				"numberOfStocksPerPortfolio": "",
+				"numberOfUsers": "",
+				"orderAlphas": "",
+				"orderRanking": "",
+				"scores": "",
+				"stockComparisionPerMonth": "",
+				"stockReportPerMonth": "",
+				"subscores": "",
+				"support": "",
+				"topGlobalRankingStocks": "",
+				"topIndustriesAndSectors": "",
+				"topIndustriesOrSectorsStocks": "",
+				"trackAIScore": ""
+			},
+			"free": {
+				"alphaSignals": "",
+				"alphaSignalsPerStock": "",
+				"alphaSignalsTechFundaSenti": "",
+				"button": "",
+				"comparisons": "",
+				"completelyFree": "",
+				"csv": "",
+				"etf": "",
+				"features": "",
+				"newsletter": "",
+				"numberOfPortfolios": "",
+				"numberOfStocks": "",
+				"numberOfStocksPerPortfolio": "",
+				"numberOfUsers": "",
+				"orderAlphas": "",
+				"orderRanking": "",
+				"period": "",
+				"portfolio": "",
+				"price": "",
+				"rankings": "",
+				"reports": "",
+				"scores": "",
+				"sectors": "",
+				"stockComparisionPerMonth": "",
+				"stockReportPerMonth": "",
+				"title": "",
+				"topGlobalRankingStocks": "",
+				"topIndustriesAndSectors": "",
+				"topIndustriesOrSectorsStocks": "",
+				"trackAIScore": "",
+				"tradeIdeas": "",
+				"tutorialSession": ""
+			},
+			"period": {
+				"billedAnnually": "",
+				"first3Months": "",
+				"forever": "",
+				"month": "",
+				"year": ""
+			},
+			"plus": {
+				"alphaSignalsPerStock": "",
+				"alphaSignalsTechFundaSenti": "",
+				"button": "",
+				"comparisons": "",
+				"csv": "",
+				"etf": "",
+				"features": "",
+				"newsletter": "",
+				"numberOfPortfolios": "",
+				"numberOfStocks": "",
+				"numberOfStocksPerPortfolio": "",
+				"numberOfUsers": "",
+				"popular": "",
+				"portfolio": "",
+				"priceMonth": "",
+				"priceMonthNow": "",
+				"priceMonthPrevious": "",
+				"priceYear": "",
+				"rankings": "",
+				"reports": "",
+				"sectors": "",
+				"stockComparisionPerMonth": "",
+				"stockReportPerMonth": "",
+				"support": "",
+				"title": "",
+				"tooltip": "",
+				"topGlobalRankingStocks": "",
+				"topIndustriesAndSectors": "",
+				"topIndustriesOrSectorsStocks": "",
+				"totalPriceYear": "",
+				"totalSaveYear": "",
+				"trackAIScore": "",
+				"tradeIdeas": "",
+				"tutorialSession": ""
+			},
+			"pro": {
+				"alphaSignalsPerStock": "",
+				"alphaSignalsTechFundaSenti": "",
+				"button": "",
+				"comparisons": "",
+				"csv": "",
+				"etf": "",
+				"features": "",
+				"historialAIScore": "",
+				"newsletter": "",
+				"numberOfPortfolios": "",
+				"numberOfStocksPerPortfolio": "",
+				"numberOfUsers": "",
+				"portfolio": "",
+				"priceMonth": "",
+				"priceMonthNow": "",
+				"priceMonthPrevious": "",
+				"priceYear": "",
+				"rankings": "",
+				"reports": "",
+				"sectors": "",
+				"stockComparisionPerMonth": "",
+				"stockReportPerMonth": "",
+				"support": "",
+				"title": "",
+				"tooltip": "",
+				"topGlobalRankingStocks": "",
+				"topIndustriesAndSectors": "",
+				"topIndustriesOrSectorsStocks": "",
+				"totalPriceYear": "",
+				"totalSaveYear": "",
+				"trackAIScore": "",
+				"tradeIdeas": "",
+				"tradingParameters": "",
+				"tutorialSession": ""
+			}
+		},
+		"tableColumnsData": {
+			"1": "",
+			"3": "",
+			"5": "",
+			"30": "",
+			"10etfs": "",
+			"10month": "",
+			"10stocks": "",
+			"10stocksMonth": "",
+			"20etfs": "",
+			"20stocks": "",
+			"3sectors": "",
+			"top10": "",
+			"top2": "",
+			"top25": "",
+			"top2trade": "",
+			"unlimited": ""
+		},
+		"testimonials": {
+			"testimonial1": {
+				"country": "",
+				"initial": "",
+				"name": "",
+				"text": ""
+			},
+			"testimonial2": {
+				"country": "",
+				"initial": "",
+				"name": "",
+				"text": ""
+			},
+			"testimonial3": {
+				"country": "",
+				"initial": "",
+				"name": "",
+				"text": ""
+			},
+			"testimonial4": {
+				"country": "",
+				"initial": "",
+				"name": "",
+				"text": ""
+			},
+			"title": ""
+		},
+		"textLink": {
+			"plus": "",
+			"pro": "",
+			"trial": ""
+		},
+		"title": "",
+		"titleMobile": "",
+		"year": ""
+	},
+	"plansAndPricingApi": {
+		"basic": {
+			"apiCalls": "",
+			"buttonText": "",
+			"calls": "",
+			"features": "",
+			"historicalData": "",
+			"investmentUniverse": "",
+			"outputFormat": "",
+			"period": "",
+			"price": "",
+			"rateLimit": "",
+			"support": "",
+			"supportType": "",
+			"supportedScores": "",
+			"title": "",
+			"up": ""
+		},
+		"button": {
+			"buy": "",
+			"documentation": "",
+			"popular": ""
+		},
+		"currency": "",
+		"description": "",
+		"elite": {
+			"apiCalls": "",
+			"buttonText": "",
+			"calls": "",
+			"features": "",
+			"historicalData": "",
+			"investmentUniverse": "",
+			"outputFormat": "",
+			"period": "",
+			"price": "",
+			"rateLimit": "",
+			"support": "",
+			"supportType": "",
+			"supportedScores": "",
+			"title": "",
+			"up": ""
+		},
+		"expert": {
+			"apiCalls": "",
+			"buttonText": "",
+			"calls": "",
+			"features": "",
+			"historicalData": "",
+			"investmentUniverse": "",
+			"outputFormat": "",
+			"period": "",
+			"price": "",
+			"rateLimit": "",
+			"support": "",
+			"supportType": "",
+			"supportedScores": "",
+			"title": "",
+			"up": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"subButton": "",
+		"title": "",
+		"titleMobile": ""
+	},
+	"popUpMobile": {
+		"cancel": "",
+		"close": "",
+		"continue": "",
+		"filter": "",
+		"ok": "",
+		"save": ""
+	},
+	"popularComparisons": {
+		"search": "",
+		"searchText": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"table": {
+			"company": "",
+			"rank": "",
+			"vs": ""
+		},
+		"timeFrame": "",
+		"title": ""
+	},
+	"popularInvestmentThemes": {
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"table": {
+			"aiScore": "",
+			"company": "",
+			"rank": "",
+			"tableData": ""
+		},
+		"timeFrame": "",
+		"title": ""
+	},
+	"popularSearches": {
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"table": {
+			"aiScore": "",
+			"company": "",
+			"rank": "",
+			"tableData": ""
+		},
+		"timeFrame": "",
+		"title": ""
+	},
+	"portfolio": {
+		"add": "",
+		"addLater": "",
+		"addNow": "",
+		"addStocksPopUp": "",
+		"added": "",
+		"adding": "",
+		"aiScoreModalInfoDescription": "",
+		"aiScoreModalInfoTitle": "",
+		"average": "",
+		"cancel": "",
+		"congratulations": "",
+		"continue": "",
+		"create": "",
+		"createNew": "",
+		"current": "",
+		"delete": "",
+		"deletePortfolio": "",
+		"diversity": "",
+		"edit": "",
+		"editPortfolio": "",
+		"empty": "",
+		"emptySubtitle": "",
+		"emptyTableLink": "",
+		"emptyTableText": "",
+		"error": "",
+		"error2": "",
+		"error3": "",
+		"errorEmpty": "",
+		"errorPortfolio1": "",
+		"errorPortfolio3": "",
+		"euMarket": "",
+		"firstPortfolioCreated": "",
+		"footerExplanation": "",
+		"market": "",
+		"modalInfoDescription": "",
+		"modalInfoTitle": "",
+		"myPortfolios": "",
+		"name": "",
+		"nameError": "",
+		"nameErrorButton": "",
+		"nameErrorSubtitle": "",
+		"namePlaceholder": "",
+		"new": "",
+		"placeHolderAddStocks": "",
+		"placeholder": "",
+		"reachedMax1": "",
+		"reachedMax2": "",
+		"reachedMax3": "",
+		"recommended": "",
+		"save": "",
+		"savePortfolio": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"skip": "",
+		"stocks": "",
+		"subtitle": "",
+		"takeMe": "",
+		"tooltip": "",
+		"totalCompanies": "",
+		"totalEtfs": "",
+		"totaltocksAndEtfs": "",
+		"usMaket": "",
+		"usMarket": "",
+		"warning": "",
+		"welcome": ""
+	},
+	"portfolioDetails": {
+		"add": "",
+		"aiscore": "",
+		"average": "",
+		"created": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"tableTitle": "",
+		"tableTitleWithEtf": ""
+	},
+	"presidentsDay": {
+		"2023": {
+			"code": {
+				"code": "",
+				"only": "",
+				"part1": "",
+				"part2": "",
+				"validity": ""
+			},
+			"discount": "",
+			"end": "",
+			"lastTitle": "",
+			"plans": "",
+			"timeframe": "",
+			"title": "",
+			"toast": {
+				"desktopText": "",
+				"lastSaleName": "",
+				"mobileText": "",
+				"saleName": "",
+				"target": "",
+				"underlined": ""
+			}
+		}
+	},
+	"privacyPolicy": {
+		"1": {
+			"mail": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"title": ""
+		},
+		"2": {
+			"paragraph1": "",
+			"title": ""
+		},
+		"3": {
+			"listItem1": "",
+			"listItem2": "",
+			"listItem3": "",
+			"listItem4": "",
+			"listItem5": "",
+			"listItem6": "",
+			"listItem7": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"4": {
+			"listItem1": "",
+			"listItem2": "",
+			"listItem3": "",
+			"listItem4": {
+				"link": "",
+				"part1": "",
+				"part2": ""
+			},
+			"listItem5": "",
+			"listItem6": "",
+			"listItem7": "",
+			"listItem8": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"5": {
+			"listItem1": "",
+			"listItem2": "",
+			"listItem3": "",
+			"listItem4": "",
+			"listItem5": "",
+			"listItem6": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"title": ""
+		},
+		"6": {
+			"listItem1": "",
+			"listItem2": "",
+			"listItem3": "",
+			"listItem4": "",
+			"paragraph1": "",
+			"title": ""
+		},
+		"7": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"8": {
+			"listItem1": {
+				"bold": "",
+				"regular": ""
+			},
+			"listItem2": {
+				"bold": "",
+				"regular": ""
+			},
+			"listItem3": {
+				"bold": "",
+				"regular": ""
+			},
+			"listItem4": {
+				"bold": "",
+				"regular": ""
+			},
+			"listItem5": {
+				"sublist": {
+					"sublistItem1": "",
+					"sublistItem2": "",
+					"sublistItem3": "",
+					"sublistItem4": ""
+				},
+				"sublistText": ""
+			},
+			"listItem6": {
+				"bold": "",
+				"regular": ""
+			},
+			"paragraph1": "",
+			"paragraph2": {
+				"part1": "",
+				"part2": ""
+			},
+			"paragraph3": "",
+			"paragraph4": "",
+			"paragraph5": "",
+			"title": ""
+		},
+		"9": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"paragraph5": "",
+			"paragraph6": "",
+			"paragraph7": "",
+			"title": ""
+		},
+		"10": {
+			"paragraph1": "",
+			"title": ""
+		},
+		"11": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"12": {
+			"paragraph1": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"summary": {
+			"list": {
+				"listItem1": "",
+				"listItem2": "",
+				"listItem3": ""
+			},
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": ""
+		},
+		"title": ""
+	},
+	"relatedInvestmentThemes": {
+		"description1": "",
+		"description2": "",
+		"relatedStocks": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"renewalRequest": {
+		"boldText": "",
+		"email": "",
+		"text1": "",
+		"text2": "",
+		"text3": "",
+		"title": ""
+	},
+	"resetPassword": {
+		"confirm": "",
+		"continue": "",
+		"enterNew": "",
+		"error": "",
+		"loginButton": "",
+		"minimum": "",
+		"passwordChanged": "",
+		"placeholder": "",
+		"seo": {
+			"metaDesescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"scoreExplanation": {
+		"aiscore": "",
+		"allAverage": "",
+		"allAverageEtfs": "",
+		"average": {
+			"252d": "",
+			"500d": "",
+			"average": "",
+			"eu": {
+				"averageAi": "",
+				"averageFundamental": "",
+				"averageSentiment": "",
+				"averageTechnical": ""
+			},
+			"significantchange": "",
+			"usa": {
+				"averageAi": "",
+				"averageFundamental": "",
+				"averageSentiment": "",
+				"averageTechnical": ""
+			}
+		},
+		"closeButton": "",
+		"etfTitle": "",
+		"fundamentalScore": "",
+		"modalDescription": "",
+		"modalFooterDescriptionAlphaOdds": "",
+		"modalFooterDescriptionAverage": "",
+		"modalFooterTitleAlphaOdds": "",
+		"modalFooterTitleAverage": "",
+		"modals": {
+			"modalDescription": "",
+			"modalFooterDescriptionAlphaOddsAiScore": "",
+			"modalFooterDescriptionAlphaOddsFundamentalScore": "",
+			"modalFooterDescriptionAlphaOddsSentimentScore": "",
+			"modalFooterDescriptionAlphaOddsTechnicalScore": "",
+			"modalFooterDescriptionAverageAi": "",
+			"modalFooterDescriptionAverageFundamental": "",
+			"modalFooterDescriptionAverageSentiment": "",
+			"modalFooterDescriptionAverageTecnical": "",
+			"modalFooterTitleAlphaOdds": "",
+			"modalFooterTitleAverage": ""
+		},
+		"overall": "",
+		"registerToUnlock": "",
+		"restofSignals": "",
+		"sentimentScore": "",
+		"table": {
+			"alphaodds": "",
+			"alpharelevance": "",
+			"alphasignal": "",
+			"bin": "",
+			"binValue": "",
+			"currentvalue": "",
+			"previousvalue": "",
+			"type": ""
+		},
+		"technicalScore": "",
+		"textAiScore": {
+			"paragraph1": {
+				"bold1": "",
+				"bold1a": "",
+				"bold2": "",
+				"bold3": "",
+				"bold4": "",
+				"bold4a": "",
+				"regular1": "",
+				"regular2": "",
+				"regular3": "",
+				"regular3a": "",
+				"regular4": ""
+			},
+			"paragraph2": {
+				"bold1": "",
+				"bold2": "",
+				"bold3": "",
+				"bold4": "",
+				"bold5": "",
+				"bold5a": "",
+				"bold6": "",
+				"regular1": "",
+				"regular2": "",
+				"regular3": "",
+				"regular4": "",
+				"regular5": "",
+				"regular6": "",
+				"regular7": "",
+				"regular7dot": ""
+			},
+			"paragraph2Ticker": {
+				"bold1": "",
+				"bold1a": "",
+				"bold2": "",
+				"bold2a": "",
+				"bold3": "",
+				"bold3a": "",
+				"bold3b": "",
+				"bold4": "",
+				"regular1": "",
+				"regular2": "",
+				"regular2a": "",
+				"regular3": "",
+				"regular3a": "",
+				"regular4": "",
+				"regular5": ""
+			},
+			"paragraphTicker": {
+				"bold1": "",
+				"bold11": "",
+				"bold1a": "",
+				"bold1a1": "",
+				"bold2": "",
+				"bold2a": "",
+				"bold3": "",
+				"bold3a": "",
+				"bold3b": "",
+				"bold4": "",
+				"bold4market": "",
+				"bold4marketEU": "",
+				"bold5": "",
+				"bold6": "",
+				"regular1": "",
+				"regular1a": "",
+				"regular1b": "",
+				"regular1c": "",
+				"regular2": "",
+				"regular3": "",
+				"regular4": "",
+				"regular5": "",
+				"regular6": "",
+				"regular61": "",
+				"regular6a": ""
+			},
+			"probabilityText": {
+				"aiAdvantageBM": "",
+				"aiProbabilityBM": "",
+				"avgProbability": "",
+				"avgProbabilityEU": "",
+				"otherAdvantageBM": "",
+				"otherProbabilityBM": ""
+			},
+			"probabilityTextExplanation": {
+				"aiAdvantageBM": "",
+				"avgProbability": "",
+				"etfs": "",
+				"indexEU": "",
+				"indexUS": "",
+				"marketEU": "",
+				"marketUS": "",
+				"otherAdvantageBM": "",
+				"probabilityBM": "",
+				"stock": ""
+			},
+			"restrictedPercentagePlaceholder": "",
+			"restrictedScorePlaceholder": "",
+			"score": "",
+			"upgradeToView": "",
+			"whatScore": ""
+		},
+		"textExplanation": {
+			"paragraph1": {
+				"bold1": "",
+				"bold1a": "",
+				"bold2": "",
+				"bold3": "",
+				"bold4": "",
+				"bold4a": "",
+				"regular1": "",
+				"regular2": "",
+				"regular3": "",
+				"regular3a": "",
+				"regular4": ""
+			},
+			"paragraph2": {
+				"bold1": "",
+				"bold2": "",
+				"bold3": "",
+				"bold4": "",
+				"bold4a": "",
+				"bold5": "",
+				"regular1": "",
+				"regular2": "",
+				"regular3": "",
+				"regular4": "",
+				"regular5": "",
+				"regular6": ""
+			}
+		},
+		"title": "",
+		"titleETF": "",
+		"tooltips": {
+			"alphaoddstt": "",
+			"alpharelevancett": "",
+			"alphasignaltt": "",
+			"bintt": "",
+			"currentvaluett": "",
+			"previousvaluett": "",
+			"probabilityAdv": "",
+			"typett": ""
+		},
+		"upgrade": "",
+		"viewAll": "",
+		"viewLess": ""
+	},
+	"scoresEvolution": {
+		"nameGrapgic": {
+			"aiscore": "",
+			"fundamental": "",
+			"sentiment": "",
+			"technical": ""
+		},
+		"timeFrame": {
+			"3months": "",
+			"daily": "",
+			"monthly": "",
+			"title": "",
+			"weekly": ""
+		},
+		"title": ""
+	},
+	"scrollTitles": {
+		"howItWorks": {
+			"aiRates": "",
+			"aiScore": "",
+			"alphaGeneration": "",
+			"alphaSignalsBehind": "",
+			"bestStrategy": "",
+			"fundTechSentRiskScores": "",
+			"howItWorks": "",
+			"technology": "",
+			"tradeIdeas": "",
+			"useCases": ""
+		}
+	},
+	"search": {
+		"company": "",
+		"noMatches": "",
+		"ticker": ""
+	},
+	"sector_industry_page": {
+		"errorMessage": "",
+		"header": {
+			"subtitle": {
+				"industry": "",
+				"sector": ""
+			},
+			"subtitleEu": "",
+			"subtitleUs": "",
+			"title": {
+				"industry": "",
+				"ranked": "",
+				"sector": ""
+			}
+		},
+		"scores": {
+			"aiscore": "",
+			"diversity": "",
+			"fundamentals": "",
+			"fundamentalsTooltip": "",
+			"lowrisk": "",
+			"lowriskTooltip": "",
+			"sentiment": "",
+			"sentimentTooltip": "",
+			"technical": "",
+			"technicalTooltip": ""
+		},
+		"seo": {
+			"anchorText": "",
+			"metaDescription1": "",
+			"metaDescription2": "",
+			"metaDescription3": "",
+			"metaDesescription": "",
+			"title": ""
+		},
+		"tooltips": {
+			"aiscore": "",
+			"fundamental": "",
+			"lowrisk": "",
+			"sentiment": "",
+			"technical": ""
+		}
+	},
+	"sectors": {
+		"columnHeaders": {
+			"aiscore": "",
+			"fundamental": "",
+			"industry": "",
+			"investment": "",
+			"investmentTheme": "",
+			"no-entries": "",
+			"numCompanies": "",
+			"rank": "",
+			"relevance": "",
+			"risk": "",
+			"sector": "",
+			"sectors": "",
+			"sentiment": "",
+			"smartScore": "",
+			"technical": ""
+		},
+		"entries": "",
+		"entry": "",
+		"explanation": {
+			"industries": {
+				"descriptionEu": "",
+				"descriptionUs": "",
+				"title": ""
+			},
+			"sectors": {
+				"descriptionEu": "",
+				"descriptionUs": "",
+				"title": ""
+			}
+		},
+		"filteredFrom": "",
+		"of": "",
+		"results": "",
+		"search": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"showing": "",
+		"to": "",
+		"tooltips": {
+			"aiscore": "",
+			"country": "",
+			"fundamental": "",
+			"num_companies": "",
+			"rank": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": ""
+		},
+		"totalEntries": ""
+	},
+	"sectorsList": {
+		"communicationServices": "",
+		"consumerDiscretionary": "",
+		"consumerStaples": "",
+		"energy": "",
+		"financials": "",
+		"healthCare": "",
+		"industrials": "",
+		"informationTechnollogy": "",
+		"materials": "",
+		"realEstate": "",
+		"utilities": ""
+	},
+	"share": {
+		"cancel": "",
+		"copy": "",
+		"email": "",
+		"facebook": "",
+		"gmail": "",
+		"linkedin": "",
+		"share": "",
+		"stocktwits": "",
+		"twitter": "",
+		"whatsapp": ""
+	},
+	"signup": {
+		"accBenefits": "",
+		"advancedFeatures": "",
+		"aiScoreGobal": "",
+		"aiScoreStocks": "",
+		"already": "",
+		"and": "",
+		"button": "",
+		"checkPremium": "",
+		"createAcc": "",
+		"createAccFree": "",
+		"createOwnPortfolio": "",
+		"dailyAlerts": "",
+		"email": "",
+		"emailPlaceholder": "",
+		"firstName": "",
+		"firstNamePlaceholder": "",
+		"freeAcc": "",
+		"freeTrialTitle": "",
+		"login": "",
+		"or": "",
+		"password": "",
+		"passwordPlaceholder": "",
+		"passwordinstructions": "",
+		"privacy": "",
+		"receiveTop": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"signupErrorMessages": {
+			"emailErrorMessage": "",
+			"nameErrorMEssage": "",
+			"passwordErrorMessage": "",
+			"signupErrorMessage": ""
+		},
+		"stockComparisonPerMonth": "",
+		"stockIndustryAndSector": "",
+		"stockReportPerMonth": "",
+		"stockVisiblePerDay": "",
+		"terms": "",
+		"termsOfUse": "",
+		"topNewsletter": "",
+		"topSectorAndIndustry": "",
+		"topSectorsAndIndustriesInvest": "",
+		"trackAIScore": "",
+		"trackPortfolios": {
+			"plus": "",
+			"pro": ""
+		},
+		"tradeIdeasWeekly": "",
+		"view2TradeIdeas": ""
+	},
+	"specificinvestmentTheme": {
+		"description": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": ""
+	},
+	"stockChart": {
+		"1m": "",
+		"1y": "",
+		"3m": "",
+		"5y": "",
+		"6m": "",
+		"addToPortfolio": {
+			"addTo": "",
+			"alreadyInPortfolio": "",
+			"buttonBottomText": "",
+			"buttonText": "",
+			"cancel": "",
+			"createNew": "",
+			"createNewPortfolio": "",
+			"createPortfolio": "",
+			"errorMaxTickers": "",
+			"errorMessageExist": "",
+			"errorMessageName": "",
+			"freePlan": "",
+			"maxCharacters": "",
+			"myHoldings": "",
+			"myPortfolios": "",
+			"name": "",
+			"notCreated": "",
+			"notifications": {
+				"added": "",
+				"deleted": "",
+				"portfolioAdded": "",
+				"portfolioDeleted": "",
+				"portfolioRemoved": "",
+				"profileUpdatedSuccessfully": "",
+				"stocksETFsAddedDelted": "",
+				"success": "",
+				"yourPortfolio": ""
+			},
+			"plusPlan": "",
+			"portfolio": "",
+			"portfolioAdded": "",
+			"portfolioRemoved": "",
+			"portfolios": "",
+			"reachedMax": "",
+			"reachedMax2": "",
+			"reachedMaxLink": "",
+			"save": "",
+			"saveTo": "",
+			"selectSomething": "",
+			"stock": "",
+			"stocks": "",
+			"upgrade": ""
+		},
+		"advancedChart": "",
+		"aiScoreInfoBuy": {
+			"aiscore": "",
+			"buy": "",
+			"hold": "",
+			"sell": "",
+			"strongbuy": "",
+			"strongsell": ""
+		},
+		"all": "",
+		"avgPast": {
+			"description": {
+				"bold1": "",
+				"bold2": "",
+				"text1": "",
+				"text2": "",
+				"text3": "",
+				"text4": ""
+			},
+			"table": {
+				"body": {
+					"alpha": "",
+					"perf": "",
+					"positive": "",
+					"win": ""
+				},
+				"header": {
+					"1m": "",
+					"1y": "",
+					"3m": "",
+					"6m": "",
+					"past": ""
+				}
+			},
+			"title": ""
+		},
+		"compare": "",
+		"compareModal": {
+			"aiScore": "",
+			"cancel": "",
+			"company": "",
+			"industry": "",
+			"orCompare": "",
+			"rank": "",
+			"sector": "",
+			"title": "",
+			"title2": ""
+		},
+		"customRange": "",
+		"etfAnalysis": "",
+		"etfSeo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"investmentThemes": "",
+		"lastNews": "",
+		"marketStatus": {
+			"closed": "",
+			"postMarket": "",
+			"preMarket": "",
+			"realTime": ""
+		},
+		"modalAiScore": {
+			"close": "",
+			"etfs": "",
+			"stocks": "",
+			"table": {
+				"columns": {
+					"annualized": "",
+					"annualizedEU": "",
+					"annualizedEtf": "",
+					"annualizedUSA": "",
+					"probability": "",
+					"smartscore": ""
+				},
+				"dataEtf": {
+					"data1Return": "",
+					"data2Return": "",
+					"data3Return": "",
+					"data4Return": "",
+					"data5Return": ""
+				},
+				"datas": {
+					"data1": "",
+					"data1Numbers": "",
+					"data1Return": "",
+					"data2": "",
+					"data2Numbers": "",
+					"data2Return": "",
+					"data3": "",
+					"data3Numbers": "",
+					"data3Return": "",
+					"data4": "",
+					"data4Numbers": "",
+					"data4Return": "",
+					"data5": "",
+					"data5Numbers": "",
+					"data5Return": "",
+					"data6": "",
+					"data6Numbers": "",
+					"data6NumbersEu": "",
+					"data6Return": ""
+				},
+				"datasEurope": {
+					"data1": "",
+					"data1Numbers": "",
+					"data1Return": "",
+					"data2": "",
+					"data2Numbers": "",
+					"data2Return": "",
+					"data3": "",
+					"data3Numbers": "",
+					"data3Return": "",
+					"data4": "",
+					"data4Numbers": "",
+					"data4Return": "",
+					"data5": "",
+					"data5Numbers": "",
+					"data5Return": "",
+					"data6": "",
+					"data6Numbers": "",
+					"data6Return": ""
+				},
+				"datasUsa": {
+					"data1": "",
+					"data1Numbers": "",
+					"data1Return": "",
+					"data2": "",
+					"data2Numbers": "",
+					"data2Return": "",
+					"data3": "",
+					"data3Numbers": "",
+					"data3Return": "",
+					"data4": "",
+					"data4Numbers": "",
+					"data4Return": "",
+					"data5": "",
+					"data5Numbers": "",
+					"data5Return": "",
+					"data6": "",
+					"data6Numbers": "",
+					"data6Return": ""
+				}
+			},
+			"text1": "",
+			"text2": "",
+			"text3": "",
+			"text4": "",
+			"text5": "",
+			"text6": "",
+			"text6etf": "",
+			"text6etf2": "",
+			"text6europe": "",
+			"text6usa": "",
+			"text7": "",
+			"textclose": ""
+		},
+		"modals": {
+			"stopLoss": {
+				"body": "",
+				"title": ""
+			},
+			"takeProfit": {
+				"body": "",
+				"title": ""
+			}
+		},
+		"prices": {
+			"close": "",
+			"currency": "",
+			"eur": "",
+			"iex": "",
+			"usd": ""
+		},
+		"rank": {
+			"industry": "",
+			"industry1": "",
+			"sector": "",
+			"sector1": ""
+		},
+		"record": {
+			"aiPowered": "",
+			"aiPoweredForecast": "",
+			"aiPoweredSignals": "",
+			"button": "",
+			"buy": "",
+			"description": {
+				"rating": {
+					"buy": "",
+					"buyAiScore": "",
+					"sellAiScore": ""
+				},
+				"text1": "",
+				"text3": "",
+				"title": ""
+			},
+			"forecast": "",
+			"forecastSuggestedParameters": {
+				"list": {
+					"entryItem": "",
+					"horizonItem": {
+						"horizon": "",
+						"months": ""
+					},
+					"stopLossItem": {
+						"stopLoss": "",
+						"stopLossValue": ""
+					},
+					"takeProfitItem": {
+						"takeProfit": "",
+						"takeProfitValue": ""
+					}
+				},
+				"title": "",
+				"tooltip": ""
+			},
+			"forecastTimeFrame": {
+				"1month": "",
+				"3months": "",
+				"6months": "",
+				"bold": "",
+				"buy": "",
+				"closing": "",
+				"sell": "",
+				"signals": "",
+				"text": ""
+			},
+			"fullTrack": "",
+			"fullTrackTitle": "",
+			"green": "",
+			"red": "",
+			"sell": "",
+			"unlock": ""
+		},
+		"scoresEvolution": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"stockAnalysis": "",
+		"technicalDatas": {
+			"fundamentals": "Fundamentals",
+			"fundamentalsTooltip": "",
+			"lowrisk": "Low Risk",
+			"lowriskTooltip": "",
+			"sentiment": "Sentiment",
+			"sentimentTooltip": "",
+			"technical": "Technical",
+			"technicalTooltip": ""
+		},
+		"tooltip": {
+			"aiscore": "",
+			"aiscoreBuy": "",
+			"change": "",
+			"gain": "",
+			"remove": ""
+		}
+	},
+	"stockList": {
+		"all": "",
+		"alphaSignals": "",
+		"buyRecord": "",
+		"buyRecordTooltip": "",
+		"clearFilter": "",
+		"columnHeaders": {
+			"aiscore": "",
+			"change": "",
+			"company": "",
+			"country": "",
+			"fundamental": "",
+			"industry": "",
+			"lowrisk": "",
+			"rank": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": "",
+			"ticker": ""
+		},
+		"country": "",
+		"countryDropdown": "",
+		"countryFilterTooltip": "",
+		"explanation": {
+			"description": "",
+			"eu": {
+				"description": "",
+				"stockUniverse": "",
+				"title": ""
+			},
+			"title": "",
+			"us": {
+				"description": "",
+				"stockUniverse": "",
+				"title": ""
+			}
+		},
+		"filterSignals": "",
+		"filterStocks": "",
+		"fundamentalDropdown": "",
+		"modals": {
+			"description": "",
+			"filterSignalsBody": "",
+			"filterSignalsClose": "",
+			"filterSignalsTitle": ""
+		},
+		"noResults": "",
+		"pagination": {
+			"of": "",
+			"showing": "",
+			"stocks": "",
+			"to": ""
+		},
+		"portfolio": "",
+		"sellRecord": "",
+		"sellRecordTooltip": "",
+		"sentimentDropdown": "",
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"technicalDropdown": "",
+		"tooltips": {
+			"addToPortfolio": "",
+			"aiscore": "",
+			"change": "",
+			"company": "",
+			"country": "",
+			"fundamental": "",
+			"industry": "",
+			"lowrisk": "",
+			"rank": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": "",
+			"ticker": ""
+		},
+		"upgrade": ""
+	},
+	"stockMarketFilter": {
+		"data": "Last update: Mar 2, 2021",
+		"modals": {
+			"close": "",
+			"description": "",
+			"modalDateBody": "",
+			"modalDateTitle": "",
+			"modalEuropeBody": "",
+			"modalEuropeTitle": "",
+			"modalUsaBody": "",
+			"modalUsaTitle": ""
+		},
+		"navs": {
+			"etfs": "",
+			"groups": "",
+			"industries": "Industries",
+			"myportfolio": "My Portfolios",
+			"sector": "Sectors",
+			"stocks": "Stocks",
+			"trade": ""
+		}
+	},
+	"stocksAZ": "",
+	"technicalIndicators": {
+		"52wHigh": "",
+		"52wHighTooltip": "",
+		"52wLow": "",
+		"52wLowTooltip": "",
+		"52wRange": "",
+		"52wRangeTooltip": "",
+		"atr": "",
+		"atrTooltip": "",
+		"avgVolume": "",
+		"avgVolumeTooltip": "",
+		"beta": "",
+		"betaTooltip": "",
+		"indicatorsText": "",
+		"volatility": "",
+		"volatilityTooltip": ""
+	},
+	"termsOfUse": {
+		"apiSection": {
+			"contactInfo": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"paragraph3": "",
+				"title": ""
+			},
+			"dataUsageAndProtection": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"title": ""
+			},
+			"governingLawAndDisputeResolution": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"title": ""
+			},
+			"indemnification": {
+				"paragraph1": "",
+				"title": ""
+			},
+			"license": {
+				"paragraph": "",
+				"title": ""
+			},
+			"limitationsOfLiability": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"title": ""
+			},
+			"ownershipAndIntellectualProperty": {
+				"paragraph": "",
+				"title": ""
+			},
+			"restrictionsOnUse": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"paragraph3": "",
+				"paragraph4": "",
+				"title": ""
+			},
+			"termination": {
+				"paragraph1": "",
+				"paragraph2": "",
+				"title": ""
+			},
+			"termsModification": {
+				"paragraph1": "",
+				"title": ""
+			},
+			"title": "",
+			"welcomeTitle": {
+				"paragraph1": "",
+				"paragraph2": ""
+			}
+		},
+		"applicableLegislation": {
+			"paragraph": "",
+			"title": ""
+		},
+		"contents": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"title": ""
+		},
+		"dataProtection": {
+			"paragraphPart1": "",
+			"paragraphPart2": "",
+			"paragraphPart3": "",
+			"title": ""
+		},
+		"disclaimer": {
+			"paragraph1": "",
+			"paragraph10": {
+				"paragraph1": "",
+				"paragraph2": ""
+			},
+			"paragraph11": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"paragraph5": "",
+			"paragraph6": "",
+			"paragraph7": "",
+			"paragraph8": "",
+			"paragraph9": "",
+			"subTitle": "",
+			"title": ""
+		},
+		"exclusion": {
+			"paragraph1": "",
+			"paragraph10": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"paragraph5": "",
+			"paragraph6": "",
+			"paragraph7": "",
+			"paragraph8": "",
+			"paragraph9": "",
+			"title": ""
+		},
+		"general": {
+			"paragraph": "",
+			"title": ""
+		},
+		"identifying": {
+			"email1": "",
+			"email2": "",
+			"hosting": {
+				"address": "",
+				"contact": "",
+				"email": "",
+				"name": "",
+				"phone": "",
+				"title": ""
+			},
+			"paragraph1": "",
+			"phone1": "",
+			"title": ""
+		},
+		"links": {
+			"paragraph": "",
+			"title": ""
+		},
+		"modification": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		},
+		"right": {
+			"paragraph": "",
+			"title": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"title": "",
+		"use": {
+			"listItem1": "",
+			"listItem2": "",
+			"listItem3": "",
+			"listItem4": "",
+			"listItem5": "",
+			"paragraph1": "",
+			"paragraph2": "",
+			"paragraph3": "",
+			"paragraph4": "",
+			"title": ""
+		},
+		"users": {
+			"paragraph1": "",
+			"paragraph2": "",
+			"title": ""
+		}
+	},
+	"testimonials": {
+		"testimonial1": {
+			"country": "",
+			"initial": "",
+			"name": "",
+			"text": ""
+		},
+		"testimonial2": {
+			"country": "",
+			"initial": "",
+			"name": "",
+			"text": ""
+		},
+		"testimonial3": {
+			"country": "",
+			"initial": "",
+			"name": "",
+			"text": ""
+		},
+		"testimonial4": {
+			"country": "",
+			"initial": "",
+			"name": "",
+			"text": ""
+		},
+		"title": ""
+	},
+	"top10": {
+		"compareTooltip": "",
+		"etfTitle": "",
+		"indOrSec": "",
+		"table": {
+			"aiscore": "",
+			"aiscoreTooltip": "",
+			"change": "",
+			"changeTooltip": "",
+			"company": "",
+			"companyTooltip": "",
+			"compare": "",
+			"country": "",
+			"countryTooltip": "",
+			"etf": "",
+			"ticker": "",
+			"tickerTooltip": ""
+		},
+		"title": "",
+		"view": ""
+	},
+	"top25": {
+		"columnHeaders": {
+			"aiscore": "",
+			"change": "",
+			"company": "",
+			"country": "",
+			"fundamental": "",
+			"industry": "",
+			"lowrisk": "",
+			"rank": "",
+			"sector": "",
+			"sentiment": "",
+			"technical": "",
+			"ticker": ""
+		},
+		"descriptions": {
+			"description": "",
+			"descriptionADRAndOther": "",
+			"subtitle": "",
+			"subtitleUSListedOtherStocks": "",
+			"subtitleh": "",
+			"titlePart1": "",
+			"titlePart2": "",
+			"updated": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		}
+	},
+	"top5": {
+		"compareTooltip": "",
+		"table": {
+			"aiscore": "",
+			"aiscoreTooltip": "",
+			"change": "",
+			"changeTooltip": "",
+			"company": "",
+			"companyTooltip": "",
+			"compare": "",
+			"country": "",
+			"countryTooltip": "",
+			"rank": "",
+			"rankTooltip": "",
+			"ticker": "",
+			"tickerTooltip": ""
+		},
+		"title": "",
+		"view": ""
+	},
+	"tradeIdeas": {
+		"addToPortfolio": {
+			"button": "",
+			"buttonMobile": ""
+		},
+		"asset": "",
+		"assetTypes": {
+			"any": "",
+			"etfs": "",
+			"stocks": ""
+		},
+		"breadCrumb": "",
+		"bullsEyeTooltips": {
+			"buy": "",
+			"sell": ""
+		},
+		"chartP3M": "",
+		"description": "",
+		"description2": "",
+		"descriptionShort": "",
+		"investment": {
+			"1month": "",
+			"1monthTooltip": "",
+			"3monthTooltip": "",
+			"3months": "",
+			"6monthTooltip": "",
+			"6months": "",
+			"investmentTooltip": "",
+			"title": ""
+		},
+		"modal": {
+			"button": "",
+			"newPortfolio": "",
+			"portfolioName": "",
+			"stocksAdded": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"stockUniverse": "",
+		"table": {
+			"aiScore": "",
+			"alphaWin": "",
+			"alphaWinTooltips": {
+				"long": "",
+				"short": ""
+			},
+			"avgPastAlpha": "",
+			"avgPastPerf": "",
+			"chartPattern": "",
+			"chartPatternTooltips": "",
+			"company": "",
+			"country": "",
+			"fundamental": "",
+			"industry": "",
+			"long": "",
+			"loss": "",
+			"low": "",
+			"pastAlphaTooltip": {
+				"long": "",
+				"short": ""
+			},
+			"pastAlphaWin": "",
+			"pastTooltip": {
+				"long": "",
+				"short": ""
+			},
+			"pastWin": "",
+			"pastWinTooltips": {
+				"long": "",
+				"short": ""
+			},
+			"rankTooltip": "",
+			"sector": "",
+			"sentiment": "",
+			"short": "",
+			"signals": {
+				"buy": "",
+				"sell": "",
+				"tooltips": {
+					"long": "",
+					"short": ""
+				}
+			},
+			"technical": "",
+			"win": ""
+		},
+		"title": "",
+		"toast": {
+			"message": "",
+			"portfolio": ""
+		},
+		"trade": {
+			"long": "",
+			"longTooltip": "",
+			"short": "",
+			"shortTooltip": "",
+			"title": ""
+		}
+	},
+	"unsubscribe": {
+		"notValid": "",
+		"resubscribe": {
+			"link": "",
+			"text1": "",
+			"text2": ""
+		},
+		"success": ""
+	},
+	"userSettings": {
+		"errors": {
+			"email": "",
+			"emailExists": "",
+			"image": "",
+			"userName": "",
+			"userNameEmpty": ""
+		},
+		"modalVerifyEmail": {
+			"button": "",
+			"resent": "",
+			"text": ""
+		},
+		"notifications": {
+			"countrySaved": "",
+			"emailSaved": "",
+			"nameSaved": "",
+			"passwordSaved": "",
+			"regionSaved": ""
+		},
+		"seo": {
+			"metaDescription": "",
+			"title": ""
+		},
+		"sideBar": {
+			"account": "",
+			"email": "",
+			"logout": "",
+			"subscriptions": "",
+			"userPlan": "",
+			"userSett": ""
+		},
+		"userInfo": {
+			"back": "",
+			"cancel": "",
+			"change": "",
+			"change-password": "",
+			"changeImage": "",
+			"characters": "",
+			"confirm": "",
+			"confirmPassword": "",
+			"country": "",
+			"currentPassword": "",
+			"dailyTop": "",
+			"defaultRegion": "",
+			"delete": "",
+			"deleteAndCancel": "",
+			"deleteConfirmation": "",
+			"edit": "",
+			"email": "",
+			"emailAlerts": "",
+			"eumarket": "",
+			"forgot": "",
+			"manage": "",
+			"manageUpgrade": "",
+			"name": "",
+			"newPass": "",
+			"newsLetter": "",
+			"no": "",
+			"password": "",
+			"passwordError": "",
+			"payment": "",
+			"paymentManage": "",
+			"paymentMethod": "",
+			"permanent": "",
+			"plan": "",
+			"save": "",
+			"subscription": "",
+			"sure": "",
+			"updateOrCancel": "",
+			"updatePlan": "",
+			"upgrade": "",
+			"usmarket": "",
+			"yes": ""
+		}
+	},
+	"users": {
+		"admin": "",
+		"free": "",
+		"plus": "",
+		"pro": ""
+	}
+}

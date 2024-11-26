@@ -1,0 +1,23 @@
+.content {
+    @apply relative w-[629px] flex justify-between items-center relative box-border border-b-[color:var(--clr-border)] min-h-[60px]  border-b border-solid py-[5px];
+}
+.content > span {
+    @apply h-full leading-[18px];
+}
+.content a {
+    @apply text-[color:var(--clr-links)] no-underline;
+}
+
+.content:last-of-type{
+    @apply border-b-0;
+}
+
+@media (max-width: 768px) {
+    .content {
+        @apply w-full rounded-none;
+    }
+
+    .content:last-of-type{
+        @apply border-b-[color:var(--clr-border)] border-b border-solid;
+    }
+}

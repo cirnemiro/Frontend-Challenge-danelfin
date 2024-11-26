@@ -1,0 +1,19 @@
+.azFiltersContainer a{
+    color:black !important;
+    text-decoration: none;
+}
+
+.azFiltersContainer a:hover{
+    text-decoration: none;
+    border-color: #272727 !important;
+}
+
+.activeAlphabetFilter{
+    border-color: #0282CC !important;
+    font-family: var(--ff-bold);
+    background-color: #F2FAFF;
+}
+
+.azFiltersContainer .activeAlphabetFilter{
+    color:#0282CC !important;
+ }

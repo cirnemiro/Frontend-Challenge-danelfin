@@ -1,0 +1,19 @@
+
+.h1 {
+    margin: 20px 0 10px 0;
+    font-size: 32px;
+    font-family: var(--ff-graphicBold);
+    line-height: 30px;
+}
+
+.h2 {
+    font-size: 22px;
+    font-family: var(--ff-graphicBold);
+    line-height: 30px;
+}
+
+.block {
+    padding: 24px 30px;
+    background-color: var(--clr-light);
+    border: 1px solid var(--clr-border);
+}

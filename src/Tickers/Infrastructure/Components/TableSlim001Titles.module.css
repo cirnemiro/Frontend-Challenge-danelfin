@@ -1,0 +1,11 @@
+.content {
+    @apply h-11 relative w-[630px] bg-[color:var(--clr-newDarkgrey)] flex justify-between items-center relative leading-6 box-border;
+}
+.content > div {
+    @apply border-[color:var(--clr-tableBorder2)] h-full;
+}
+@media (max-width: 768px) {
+    .content {
+        @apply w-full rounded-none;
+    }
+}
