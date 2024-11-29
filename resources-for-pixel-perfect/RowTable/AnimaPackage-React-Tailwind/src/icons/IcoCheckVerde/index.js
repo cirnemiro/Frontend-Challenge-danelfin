@@ -1,0 +1,1 @@
+export { IcoCheckVerde } from "./IcoCheckVerde";

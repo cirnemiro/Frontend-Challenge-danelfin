@@ -1,0 +1,21 @@
+export const regions = [
+    { iso: "at", region: "Austria", flag: "at" },
+    { iso: "be", region: "Belgium", flag: "be" },
+    { iso: "dk", region: "Denmark", flag: "dk" },
+    { iso: "eu", region: "Europe", flag: "europeanunion" },
+    { iso: "fi", region: "Finland", flag: "fi" },
+    { iso: "fr", region: "France", flag: "fr" },
+    { iso: "de", region: "Germany", flag: "de" },
+    { iso: "ie", region: "Ireland", flag: "ie" },
+    { iso: "it", region: "Italy", flag: "it" },
+    { iso: "lu", region: "Luxembourg", flag: "lu" },
+    { iso: "nl", region: "Netherlands", flag: "nl" },
+    { iso: "no", region: "Norway", flag: "no" },
+    { iso: "pl", region: "Poland", flag: "pl" },
+    { iso: "pt", region: "Portugal", flag: "pt" },
+    { iso: "es", region: "Spain", flag: "es" },
+    { iso: "se", region: "Sweden", flag: "se" },
+    { iso: "ch", region: "Switzerland", flag: "ch" },
+    { iso: "gb", region: "United Kingdom", flag: "gb" },
+    { iso: "us", region: "USA", flag: "us" }
+]

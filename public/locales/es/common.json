@@ -248,8 +248,7 @@
 		"howToApply": {
 			"disclaimer": {
 				"bold": "",
-				"normal": "",
-				"normal1": ""
+				"normal": ""
 			},
 			"numFour": {
 				"bold": "",
@@ -286,8 +285,7 @@
 			"title": ""
 		},
 		"stocksYearlyAvgMetrics": {
-			"paragraph": "",
-			"paragraph2": ""
+			"paragraph": ""
 		},
 		"strategyMethod": {
 			"paragraph1": "",
@@ -1588,8 +1586,7 @@
 				"description": "",
 				"name": ""
 			}
-		},
-		"videoLinkHome": ""
+		}
 	},
 	"howItWorks": {
 		"diagram": {
@@ -3084,14 +3081,6 @@
 			"metaDescription": "",
 			"title": ""
 		},
-		"title": ""
-	},
-	"renewalRequest": {
-		"boldText": "",
-		"email": "",
-		"text1": "",
-		"text2": "",
-		"text3": "",
 		"title": ""
 	},
 	"resetPassword": {

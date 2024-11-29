@@ -1,0 +1,36 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+}
+
+:root {
+  --ai-score-1-color: rgba(236, 99, 100, 1);
+  --ai-score-10-color: rgba(94, 181, 116, 1);
+  --ai-score-2-color: rgba(249, 134, 112, 1);
+  --ai-score-3-color: rgba(250, 162, 118, 1);
+  --ai-score-4-color: rgba(252, 190, 123, 1);
+  --ai-score-5-color: rgba(253, 220, 130, 1);
+  --ai-score-6-color: rgba(238, 230, 131, 1);
+  --ai-score-7-color: rgba(192, 209, 124, 1);
+  --ai-score-8-color: rgba(160, 199, 120, 1);
+  --ai-score-9-color: rgba(134, 200, 125, 1);
+  --black: rgba(39, 39, 39, 1);
+  --blue: rgba(2, 130, 204, 1);
+  --blue-ai-score: rgba(240, 251, 255, 1);
+  --blue-link: rgba(17, 86, 204, 1);
+  --dividing-line: rgba(223, 223, 223, 1);
+  --dropown-gray-outline: rgba(156, 156, 156, 1);
+  --gray-button-arrow: rgba(32, 40, 46, 1);
+  --gray-button-arrow-hover: rgba(0, 0, 0, 1);
+  --gray-hover-table: rgba(79, 86, 91, 1);
+  --gray-separator-line-table: rgba(122, 125, 128, 1);
+  --gray-table: rgba(90, 97, 102, 1);
+  --radio-button-active: rgba(2, 117, 255, 1);
+  --variable-collection-AI-score-4-color: rgba(252, 190, 123, 1);
+  --variable-collection-content-text: rgba(39, 39, 39, 1);
+  --white: rgba(255, 255, 255, 1);
+}

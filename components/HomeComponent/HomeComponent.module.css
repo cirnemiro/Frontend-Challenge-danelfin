@@ -1,0 +1,28 @@
+/* SCROLL */
+.list_countries_box::-webkit-scrollbar {
+    -webkit-appearance: none;
+    margin-left: 10px;
+  }
+  
+  .list_countries_box::-webkit-scrollbar:vertical {
+    width: 10px;
+  }
+  
+  .list_countries_box::-webkit-scrollbar-button:increment,
+  .list_countries_box::-webkit-scrollbar-button {
+    display: none;
+  }
+  
+  .list_countries_box::-webkit-scrollbar:horizontal {
+    height: 10px;
+  }
+  
+  .list_countries_box::-webkit-scrollbar-thumb {
+    background-color: #797979;
+    border-radius: 20px;
+    border: 2px solid #f1f2f3;
+  }
+  
+  .list_countries_box::-webkit-scrollbar-track {
+    border-radius: 10px;
+  }

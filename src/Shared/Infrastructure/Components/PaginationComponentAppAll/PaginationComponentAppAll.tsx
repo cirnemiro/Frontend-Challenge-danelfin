@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from './PaginationComponentAppAll.module.css';
-import PaginationArrow from "@/src/Shared/Infrastructure/Components/PaginationArrowAll";
+import PaginationArrow from "@/src/Shared/Infrastructure/Design-components/PaginationArrowAll";
 import { getAndConvertLocaleString } from "@/src/Shared/Domain/PaginationLocaleString";
 
 type Props = {

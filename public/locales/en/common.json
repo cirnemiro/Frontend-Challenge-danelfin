@@ -54,17 +54,17 @@
 	},
 	"affiliate": {
 		"become": "Become an affiliate and receive commission for each Danelfin sale you drive",
-		"commission": "30% commission",
+		"commission": "$30+ per sale commission",
 		"cookie": "Cookie lifetime: 45 days",
 		"danelfin": "Danelfin is the AI-powered stock analytics platform that is helping thousands of investors worldwide to make better investing decisions",
 		"description": "Sign up to become a Danelfin affiliate and earn rewards. After signing up, you will get access to your custom referral link and your own dashboard.",
 		"highlights": "Affiliate Program Highlights:",
 		"lifetime": {
-			"bold": "Lifetime commission",
+			"bold": "Lifetime commissions",
 			"regular": "(total life of the customer, no cap)"
 		},
 		"recurring": {
-			"bold": "Recurring commission",
+			"bold": "Recurring commissions",
 			"regular": "(monthly and yearly subscriptions)"
 		},
 		"register": "Register Now",
@@ -234,26 +234,25 @@
 		"bestStocksPerformance": {
 			"bestStocks": {
 				"bestStocksBold": "*Danelfin Best Stocks: ",
-				"bestStocksNormal": "Equally-weighted US-listed stocks portfolio, with the top 6 stocks with a Buy Track Record and a Low Risk score of 5/10 or above from the top 5 sectors (highest AI Score). The portfolio was rebalanced every 3 months to include only stocks that met the defined criteria. The portfolio was also rebalanced every 12 months to keep it equally weighted. The light green area shows the performance range of the 10 different strategy simulations. Performance based on backtested results. Backtested performance is not an indicator of actual future results.",
-				"perfFrom": "Performance from January 3, 2017, to August 15, 2024, including 0.15% costs per transaction."
+				"bestStocksNormal": "Equally-weighted US-listed stocks portfolio, with the top 6 stocks (highest AI Score, prioritizing the ones with a Buy Track Record, and Low Risk score 6/10 or above) from the top 5 sectors (highest AI Score). The portfolio was rebalanced every 3 months to include only stocks that met the defined criteria. The portfolio was also rebalanced every 12 months to keep it equally weighted. The light green area shows the performance range of the 10 different strategy simulations. Performance based on backtested results. Backtested performance is not an indicator of actual future results.",
+				"perfFrom": "Performance from January 3, 2017, to August 15, 2023, including 0.15% costs per transaction."
 			},
 			"paragraph1": "We built an investment strategy for US-listed stocks, using the Danelfin AI Score to demonstrate the predictive power of our Artificial Intelligence.",
-			"paragraph2": "We backtested the strategy using Monte Carlo simulations from January 3, 2017, to August 15, 2024. The goal was to test whether this investment strategy could withstand small changes in the financial markets and our models' predictions."
+			"paragraph2": "We backtested the strategy using Monte Carlo simulations from January 3, 2017, to August 15, 2023. The goal was to test whether this investment strategy could withstand small changes in the financial markets and our models' predictions."
 		},
 		"danelfinAI": "Danelfin: The AI that beats the market",
-		"finalPortfolio": "Danelfin Best Stocks Final Portfolio (August 15, 2024)",
+		"finalPortfolio": "Danelfin Best Stocks Final Portfolio (August 15, 2023)",
 		"finalPortfoliosIndustryDist": "Final Portfolio Industry Distribution",
 		"finalPortfoliosSectorDist": "Final Portfolio Sector Distribution",
 		"finalText": "* Performance based on backtested results. Backtested performance is not an indicator of actual future results.",
 		"howToApply": {
 			"disclaimer": {
-				"bold": "Backtested performance is not an indicator of actual future results",
-				"normal": "The Danelfin Best Stocks strategy performance is based on backtested results.",
-				"normal1": "."
+				"bold": "Backtested performance is not an indicator of actual future results.",
+				"normal": "The Danelfin Best Stocks strategy performance is based on backtested results."
 			},
 			"numFour": {
-				"bold": "Rebalance the portfolio every 12 months to keep the portfolio equally weighted",
-				"normal1": ", ensuring all stocks have the same weight again."
+				"bold": "Rebalance the portfolio every 12 months to keep the portfolio equally weighted, ",
+				"normal1": " ensuring all stocks have the same weight again."
 			},
 			"numOne": {
 				"bold": "Identify the top 5 sectors ",
@@ -265,13 +264,13 @@
 			},
 			"numThree": {
 				"bold": "Rebalance your portfolio every 3 months to include only US-listed stocks that meet the defined criteria ",
-				"normal1": "(the top 6 stocks with a Buy Track Record, the highest possible AI Score, and a Low Risk score of 5/10 or above, from the top 5 sectors). If a stock does not meet the defined criteria, sell it and replace it with a new stock that meets it."
+				"normal1": "(top 6 stocks with highest AI Score, prioritizing the ones with a Buy Track Record, and Low Risk score 6/10 or above). If a stock does not meet the defined criteria, sell it and replace it with a new stock that meets it."
 			},
 			"numTwo": {
-				"bold": "Pick the top 6 stocks with a Buy Track Record from each sector",
-				"link1": "Real Estate sector top stocks, ",
+				"bold": "Pick the top 6 stocks from each of those sectors: ",
+				"link1": "Consumer Discretionary sector top stock, ",
 				"link2": "Plus and Pro ",
-				"normal1": ". These stocks should have a Buy Track Record, the highest possible AI Score, and a Low Risk score of 5/10 or above. If there are not enough stocks with a Buy Track Record, then choose the stocks with the highest AI Score and a Low Risk score of 5/10 or above. The example below shows the ",
+				"normal1": "Stocks with the highest AI Score (prioritizing the ones with a Buy Track Record) and with Low Risk score 6/10 or above. The example below shows the ",
 				"normal2": "fully visible only for ",
 				"normal3": "users."
 			}
@@ -282,26 +281,25 @@
 		"initialPortfoliosIndustryDist": "Initial Portfolio Industry Distribution",
 		"initialPortfoliosSectorDist": "Initial Portfolio Sector Distribution",
 		"seo": {
-			"metaDescription": "Discover the best stock investment strategy with Danelfin AI. Backtested from 2017 to 2024 with Monte Carlo simulations, showcasing superior performance and predictive power.",
+			"metaDescription": "Discover the best stock investment strategy with Danelfin AI. Backtested from 2017 to 2023 with Monte Carlo simulations, showcasing superior performance and predictive power.",
 			"title": "Best Stocks Investment Strategy with Danelfin AI"
 		},
 		"stocksYearlyAvgMetrics": {
-			"paragraph": "*Partial 2024 data, up to August 15. In order to update the strategy, it was necessary to rerun all backtested simulations from the beginning of the investment period. As a result, there may be variations in some years’ data when compared to the previous version of the strategy.",
-			"paragraph2": "The Danelfin Best Stocks Strategy portfolio experienced a significantly lower drawdown compared to the S&P 500 over the same period, as shown in the chart below. This is another strong advantage of our strategy for investors."
+			"paragraph": "*Partial 2023 data, up to August 15. In order to update the strategy, it was necessary to rerun all backtested simulations from the beginning of the investment period. As a result, there may be variations in some years’ data when compared to the previous version of the strategy."
 		},
 		"strategyMethod": {
-			"paragraph1": "To test the Danelfin Best Stocks investing strategy for US-listed stocks, we built a 30-stock equally-weighted portfolio with the top 6 stocks that had a Buy Track Record, the highest possible AI Score, and a Low Risk score of 5/10 or above, from the top 5 sectors (highest AI Score), as of January 3, 2017.",
+			"paragraph1": "To test the Danelfin Best Stocks investing strategy for US-listed stocks, we built a 30-stock equally-weighted portfolio with the top 6 stocks (highest AI Score, prioritizing the ones with a Buy Track Record, and Low Risk score 6/10 or above) from the top 5 sectors (highest AI Score), as of January 3, 2017.",
 			"paragraph2": "Then, we ran backtested simulations, rebalancing the portfolio every 3 months to include only stocks that met the defined criteria. If a stock did not meet the defined criteria, it was sold and replaced with a stock that met the defined criteria.",
 			"paragraph3": "Furthermore, the portfolio was rebalanced every 12 months to keep the portfolio equally weighted."
 		},
 		"strategyTest": {
 			"paragraph1": "The Monte Carlo simulation is a method that uses probabilities to estimate the possible outcomes of uncertain events. In this case, we used Monte Carlo simulations to test whether the investment strategy could withstand small changes in the financial markets and our models' predictions.",
-			"paragraph2": "Our AI considered all the stock trades that would have been made in the past to apply the strategy rules, and then made random changes to those trades to create 10 different portfolios. Instead of always selecting the top 6 stocks from the top 5 sectors, our AI randomly picked 6 stocks every 3 months from the top 10 stocks in those sectors that had a Buy Track Record, the highest possible AI Score, and a Low Risk score of 5/10 or above.",
+			"paragraph2": "Our AI considered all the stock trades that would have been made in the past to apply the strategy rules, and then made random changes to those trades to create 10 different portfolios. Instead of always selecting the top 6 stocks from the top 5 sectors, our AI randomly picked 6 stocks every 3 months from the top 10 stocks in those sectors, based on their AI Score (highest AI Score, prioritizing the ones with a Buy Track Record, and Low Risk score 6/10 or above).",
 			"paragraph3": "By doing this, our AI created 10 different investment portfolios, each with its own unique outcomes. The expected performance of our strategy is calculated as the average performance of these 10 simulations."
 		},
 		"title": "Danelfin Affiliate Program",
 		"titles": {
-			"bestFinalPortfolio": "Danelfin Best Stocks Final Portfolio (August 15, 2024)",
+			"bestFinalPortfolio": "Danelfin Best Stocks Final Portfolio (August 15, 2023)",
 			"bestInitialPortfolio": "Danelfin Best Stocks Initial Portfolio (January 3, 2017)",
 			"finalIndustryDist": "Final Portfolio Industry Distribution",
 			"finalSectorDist": "Final Portfolio Sector Distribution",
@@ -311,7 +309,7 @@
 			"investmentStrategy": "How does the investment strategy work?",
 			"monteCarloSimulations": "10 Monte Carlo Simulations",
 			"stockPerformance": "Danelfin Best Stocks Performance",
-			"stockYearlyAvgMetrics": "Danelfin Best Stocks Portfolio Yearly Average Metrics*",
+			"stockYearlyAvgMetrics": "Danelfin Best Stocks Yearly Average Metrics*",
 			"strategyTest": "How was the strategy tested?",
 			"technicalMetrics": "Danelfin Best Stocks Technical Metrics"
 		}
@@ -911,7 +909,7 @@
 	"footer": {
 		"address": {
 			"bcn": {
-				"address1": "Via Augusta 200, 3rd Floor",
+				"address1": "Via Augusta 200, 3rd Floor ",
 				"address2": "08021, Barcelona, Spain",
 				"city": "BCN",
 				"title": "Danelfin Technologies, S.L."
@@ -1205,18 +1203,17 @@
 			"q3Earnings2024": {
 				"banner": {
 					"checkout": " at checkout",
-					"code": "EARNINGS50",
-					"discount": "Up to 70% OFF 1st Year",
+					"code": "TREAT24",
+					"discount": "50% OFF",
 					"only": "Only for new annual subscriptions. ",
-					"title": "Power Up for Q3 Earnings Season",
+					"title": "Halloween Sale",
 					"titleLien1": "Power Up for",
 					"titleLien2": "Q3 Earnings Season",
-					"validity": "Only for new subscriptions, for first 12 months. ",
-					"vailidityUntil": "Valid until Nov. 29."
+					"validity": "Valid until November 1"
 				},
 				"toast": {
-					"saleNameDesktop": "Black Friday - ",
-					"saleNameMobile": "Black Friday - "
+					"saleNameDesktop": "Halloween Sale - ",
+					"saleNameMobile": "Halloween Sale - "
 				},
 				"underlined": "50% OFF your 1st year"
 			},
@@ -1237,8 +1234,8 @@
 		"registrationModal": {
 			"description": "Receive every day our Top 10 stocks ranking, powered by Artificial Intelligence",
 			"leftSide": {
-				"description": "The AI-powered Danelfin Best Stocks strategy generated a return of +263% vs. only +189% of the S&P 500 in the same period.",
-				"footNoteDesktop": "*Danelfin Best Stocks: Equally-weighted US-listed stocks portfolio, with the top 6 stocks with a Buy Track Record and a Low Risk score of 5/10 or above from the top 5 sectors. Rebalanced every 3 months to include only stocks that met the defined criteria. Rebalanced every 12 months to keep it equally weighted. Performance based on backtested results, not an indicator of future results. Perf. from Jan. 3, 2017, to Aug. 15, 2024, including 0.15% costs per transaction.",
+				"description": "The AI-powered Danelfin Best Stocks strategy generated a return of +191% vs. only +118% of the S&P 500 in the same period.",
+				"footNoteDesktop": "*Danelfin Best Stocks: Equally-weighted US-listed stocks portfolio, with the top 6 stocks (highest AI Score and a min. Low Risk score of 7/10) from the top 5 sectors. Rebalanced every 3 months to include only stocks that met the defined criteria. Also rebalanced every 12 months to keep it equally weighted. Performance based on backtested results, not an indicator of future results. Perf. from Jan. 3, 2017, to Dec. 30, 2022, including 0.15% costs per transaction.",
 				"footNoteMobile": "*Danelfin Best Stocks: Equally-weighted US stocks portfolio with top 6 stocks (highest AI ...",
 				"title": "Danelfin Best Stocks* vs. S&P 500",
 				"viewLess": "View less",
@@ -1397,7 +1394,7 @@
 		"noTickersOnTable": "There are no tickers available for this list.",
 		"pagination": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} stocks",
 		"paginationEtf": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} ETFs",
-		"paginationEtfStocksWFilterAZ": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} {{stockOrEtf}} starting with '{{letter}}'",
+		"paginationEtfStocksWFilterAZ": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} {{stockOrEtf}}'",
 		"paginationPopularComparisions": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} popular comparisions",
 		"paginationPopularInvestmentThemes": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} popular investment themes",
 		"paginationPopularSearches": "Showing {{showingFrom}} to {{showingTo}} of {{totalNum}} popular searches",
@@ -1540,7 +1537,7 @@
 				"description": {
 					"link": "Best Stocks strategy",
 					"text1": "The AI-powered Danelfin ",
-					"text2": "*Danelfin Best Stocks: Equally-weighted US-listed stocks portfolio, with the top 6 stocks with a Buy Track Record and a Low Risk score of 5/10 or above from the top 5 sectors. Rebalanced every 3 months to include only stocks that met the defined criteria. Rebalanced every 12 months to keep it equally weighted. Performance based on backtested results, not an indicator of future results. Perf. from Jan. 3, 2017, to Aug. 15, 2024, including 0.15% costs per transaction."
+					"text2": "generated a return of +191% from January 3, 2017, until August 15, 2023, vs. only +118% of the S&P 500 in the same period."
 				},
 				"title": "Generate Superior Returns"
 			},
@@ -1554,7 +1551,7 @@
 			},
 			"case2": {
 				"description1": "We built an investment strategy for US-listed stocks, using the Danelfin AI Score to demonstrate the predictive capabilities of our Artificial Intelligence.",
-				"description2": "The AI-powered Danelfin Best Stocks strategy generated a return of +263% from January 3, 2017, until August 15, 2024, vs. only +189% of the S&P 500 in the same period.",
+				"description2": "The AI-powered Danelfin Best Stocks strategy generated a return of +191% from January 3, 2017, until August 15, 2023, vs. only +118% of the S&P 500 in the same period.",
 				"link": "Check Danelfin Best Stock Strategy",
 				"title": "Generate Superior Returns"
 			},
@@ -1590,7 +1587,7 @@
 				"name": "Garret S. - USA"
 			}
 		},
-		"videoLinkHome": "Video: How to Use Danelfin"
+		"videoLinkHome":"Video: How to Use Danelfin"
 	},
 	"howItWorks": {
 		"diagram": {
@@ -1648,7 +1645,7 @@
 		},
 		"performanceSection": {
 			"paragraph1": {
-				"bold": "The AI-powered Danelfin Best Stocks strategy generated a return of +263% from January 3, 2017, until August 15, 2024, vs. only +189% of the S&P 500 in the same period.",
+				"bold": "The AI-powered Danelfin Best Stocks strategy generated a return of +191% from January 3, 2017, until August 15, 2023, vs. only +118% of the S&P 500 in the same period.",
 				"regular": "We built an investment strategy for US-listed stocks, using the Danelfin AI Score to demonstrate the predictive capabilities of our Artificial Intelligence."
 			},
 			"paragraph2": {
@@ -2073,7 +2070,7 @@
 			"discount": "50% OFF",
 			"end": "*Only for new annual subscriptions",
 			"lastTitle": "LAST DAY",
-			"plans": " - Danelfin Plus or Pro",
+			"plans": " - All Plans",
 			"timeframe": "1st Year",
 			"title": "MEMORIAL DAY SALE",
 			"toast": {
@@ -2454,7 +2451,7 @@
 			"question6": "How do I cancel my subscription?",
 			"title": "Frequently Asked Questions"
 		},
-		"freeTrial": "Or <spn>Try Free</spn> for 14 days",
+		"freeTrial": "or <spn>try free</spn> for 14 days",
 		"investmentTable": {
 			"row1": "Top 10 stocks to buy daily newsletter",
 			"row10": "Predictive AI Score for sectors and industries",
@@ -2489,7 +2486,6 @@
 		},
 		"register": "",
 		"save": "Annual billing 25% off, which is 3 months free",
-		"saveBf2024": "Annual billing up to 70% off for the first year",
 		"saveInfo": "You save ${{amount}} a year",
 		"seo": {
 			"metaDescription": "Choose a free or a premium plan to improve your stock picking with our AI-powered stock analytics platform.",
@@ -2564,7 +2560,7 @@
 				"rankings": "Top 10 stocks in ranking",
 				"reports": "10 stock/ETF reports per month",
 				"scores": "12 hours delay",
-				"sectors": "Top 2 sectors and 3 industries to invest in",
+				"sectors": "Top 3 sectors and industries to invest in",
 				"stockComparisionPerMonth": "10",
 				"stockReportPerMonth": "10",
 				"title": "Free",
@@ -2613,10 +2609,6 @@
 				"topIndustriesAndSectors": "Unlimited",
 				"topIndustriesOrSectorsStocks": "Unlimited",
 				"totalPriceYear": "228",
-				"totalPriceMonth": "19",
-				"totalPriceMonthlyAnnualBf": "7.60",
-				"totalPriceMonthlyBf": "12",
-				"totalPriceYearBf": "91",
 				"totalSaveYear": "72.00",
 				"trackAIScore": "",
 				"tradeIdeas": "Top 25 Trade Ideas",
@@ -2652,10 +2644,6 @@
 				"topIndustriesAndSectors": "Unlimited",
 				"topIndustriesOrSectorsStocks": "Unlimited",
 				"totalPriceYear": "624",
-				"totalPriceMonth": "52",
-				"totalPriceMonthlyAnnualBf": "15.60",
-				"totalPriceMonthlyBf": "35",
-				"totalPriceYearBf": "187",
 				"totalSaveYear": "216.00",
 				"trackAIScore": "",
 				"tradeIdeas": "Unlimited Trade Ideas",
@@ -2728,7 +2716,6 @@
 			"outputFormat": "Output format: JSON",
 			"period": "/month",
 			"price": "70",
-			"priceBf": "35",
 			"rateLimit": "Rate Limit:",
 			"support": "Support:",
 			"supportType": "Standard",
@@ -2753,7 +2740,6 @@
 			"outputFormat": "Output format: JSON",
 			"period": "/month",
 			"price": "599",
-			"priceBf": "299",
 			"rateLimit": "Rate Limit:",
 			"support": "Support:",
 			"supportType": "Priority",
@@ -2771,7 +2757,6 @@
 			"outputFormat": "Output format: JSON",
 			"period": "/month",
 			"price": "199",
-			"priceBf": "99",
 			"rateLimit": "Rate Limit:",
 			"support": "Support:",
 			"supportType": "Standard",
@@ -3098,14 +3083,6 @@
 			"title": "Investment Themes Related to {{ticker}} | Danelfin"
 		},
 		"title": "Related Investment Themes"
-	},
-	"renewalRequest": {
-		"boldText": "Thank you for requesting the renewal of your Danelfin subscription at a unique 50% lifetime discount. ",
-		"email": "support@danelfin.com",
-		"text1": "We're thrilled to keep you as a valued Danelfin member.",
-		"text2": "We will apply your discount and update your subscription within the next 24 hours. You will not be charged until the scheduled date of your renewal. If your renewal date is more than 45 days away, we will send you an email reminder 45 days before your subscription renews.",
-		"text3": "If you have any questions, please contact us at ",
-		"title": "Your Renewal Request Has Been Received"
 	},
 	"resetPassword": {
 		"confirm": "Confirm your new password",
@@ -3526,7 +3503,7 @@
 		"terms": "By using Danelfin you agree to our ",
 		"termsOfUse": "Terms of use",
 		"topNewsletter": "Receive the Top Stocks & Top Weekly Movers daily newsletter",
-		"topSectorAndIndustry": "View the Top 2 sectors and 3 industries to invest in",
+		"topSectorAndIndustry": "View the Top 3 sectors and industries to invest in",
 		"topSectorsAndIndustriesInvest": "Unlock all top industries & sectors to invest in",
 		"trackAIScore": "Track the AI Score of your portfolios and stocks by email",
 		"trackPortfolios": {
@@ -4421,4 +4398,3 @@
 		"pro": "Pro"
 	}
 }
-

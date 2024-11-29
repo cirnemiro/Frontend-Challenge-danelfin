@@ -1,0 +1,29 @@
+
+
+@media (min-width: 770px) {
+  
+  /* scroll bar */
+
+  .authModal *::-webkit-scrollbar {
+    width: 7px !important;
+  }
+
+  /* Track */
+  .authModal *::-webkit-scrollbar-track {
+    background: #f7f7f700;
+    border-radius: 4.5px;
+  }
+
+  /* Handle */
+  .authModal *::-webkit-scrollbar-thumb {
+    background: #727272;
+    border-radius: 4.5px;
+  }
+
+  /* Handle on hover */
+  .authModal *::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  /* / scroll bar */
+}

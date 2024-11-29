@@ -1,0 +1,284 @@
+.row-table {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--dividing-line);
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.row-table .rank {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 70px;
+}
+
+.row-table .tesla-inc {
+  color: var(--black);
+  flex: 1;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  text-align: center;
+}
+
+.row-table .ticker-and-name {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 230px;
+}
+
+.row-table .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+  width: 100%;
+}
+
+.row-table .text-wrapper {
+  color: var(--blue-link);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.row-table .iconos {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.row-table .diana-buy {
+  height: 15.45px !important;
+  margin-top: -1.45px !important;
+  position: relative !important;
+  width: 15.45px !important;
+}
+
+.row-table .check {
+  height: 14px !important;
+  position: relative !important;
+  width: 12px !important;
+}
+
+.row-table .div {
+  align-self: stretch;
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+}
+
+.row-table .country {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 58px;
+}
+
+.row-table .flag-USA {
+  background-image: url(../../../static/img/group-3.png);
+  background-size: 100% 100%;
+  height: 10px;
+  position: relative;
+  width: 17px;
+}
+
+.row-table .AI-score {
+  align-items: center;
+  background-color: var(--blue-ai-score);
+  border-color: #d5ebff;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 72px;
+}
+
+.row-table .element {
+  height: 32px !important;
+  position: relative !important;
+  width: 32px !important;
+}
+
+.row-table .change {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 80px;
+}
+
+.row-table .group {
+  height: 18px;
+  position: relative;
+  width: 26px;
+}
+
+.row-table .text-wrapper-2 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.row-table .group-wrapper {
+  background-color: var(--white);
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.row-table .img {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.row-table .element-wrapper {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 86px;
+}
+
+.row-table .low-risk {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 80px;
+}
+
+.row-table .customizable-column {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 92px;
+}
+
+.row-table .element-2 {
+  color: var(--black);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.row-table .industry-sector {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 161px;
+}
+
+.row-table .element-3 {
+  color: #1156cc;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.row-table .add-to-portfolio {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 62px;
+  justify-content: center;
+  padding: 4px;
+  position: relative;
+  width: 83px;
+}
+
+.row-table .property-1-default {
+  height: 22px !important;
+  position: relative !important;
+  width: 22px !important;
+}

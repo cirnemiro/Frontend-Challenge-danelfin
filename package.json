@@ -1,4 +1,4 @@
- {
+{
   "name": "nextdanelfin",
   "private": true,
   "scripts": {
@@ -39,6 +39,7 @@
     "next-http-proxy-middleware": "^1.2.6",
     "next-i18next": "^15.0.0",
     "nprogress": "^0.2.0",
+    "posthog-js": "^1.103.1",
     "prop-types": "^15.8.1",
     "react": "^18",
     "react-bootstrap": "^2.9.1",

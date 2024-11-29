@@ -19,7 +19,7 @@ export default  async function Root({children, params: {lng}}: Props) {
 
   return (
       <section className={'section-content-wrapper'}>
-          <div className='layout-container p-20'>
+          <div className='layout-container pt-10'>
 
               {children}
           </div>

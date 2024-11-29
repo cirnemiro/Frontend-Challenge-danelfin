@@ -1,0 +1,13 @@
+.contentZzz em {
+    @apply  flex sm:flex-wrap w-[895px];
+
+}
+
+
+
+@media (max-width: 768px) {
+    .contentZzz {
+        @apply rounded-none overflow-x-scroll w-screen;
+
+    }
+}

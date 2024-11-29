@@ -3,7 +3,6 @@ module.exports = {
     defaultLocale: 'en',
     locales: ['en'],
     // initImmediate : false,
-    // interpolation: { escapeValue: false }
   },
   react: {
     useSuspense: false,

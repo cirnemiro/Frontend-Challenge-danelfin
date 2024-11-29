@@ -1,0 +1,31 @@
+/* scrolll bar */
+
+.portfolios_list_container::-webkit-scrollbar,
+.portfolio_tickers_chosen_wrapper::-webkit-scrollbar {
+  width: 7px !important;
+}
+.diversity_legend_container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Track */
+.portfolios_list_container::-webkit-scrollbar-track,
+.portfolio_tickers_chosen_wrapper::-webkit-scrollbar {
+  background: #f7f7f700;
+  border-radius: 4.5px;
+}
+
+/* Handle */
+.portfolios_list_container::-webkit-scrollbar-thumb,
+.portfolio_tickers_chosen_wrapper::-webkit-scrollbar-thumb {
+  background: #727272;
+  border-radius: 4.5px;
+}
+
+/* Handle on hover */
+.portfolios_list_container::-webkit-scrollbar-thumb:hover,
+.portfolio_tickers_chosen_wrapper::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* / scroll bar */

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from './PaginationComponentApp.module.css';
-import PaginationArrow from "@/src/Shared/Infrastructure/Components/PaginationArrow.tsx";
+import PaginationArrow from "@/src/Shared/Infrastructure/Design-components/PaginationArrow.tsx";
 
 type Props = {
     total: number;
