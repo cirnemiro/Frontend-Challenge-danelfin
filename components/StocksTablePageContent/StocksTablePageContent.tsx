@@ -1,18 +1,17 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { DataTable } from "../ReactTable/DataTable";
-import { useDebounce } from "@/hooks/useDebounce";
 import { useStockColumns } from "@/src/Shared/Domain/StocksTableContants";
 import { useFetchStocks } from "@/src/Shared/Infrastructure/api/queries/useFetchStocks";
 
-export default function StocksTablePageContent() {
-  const [pagination, setPagination] = useState<any>({
-    pageIndex: 0,
-    pageSize: 10,
-  });
+type Sorting = {
+  column: string;
+  direction: "asc" | "desc";
+};
 
-  const [sorting, setSorting] = useState<any>({
+export default function StocksTablePageContent() {
+  const [sorting, setSorting] = useState<Sorting>({
     column: "",
-    direction: "DESC",
+    direction: "desc",
   });
 
   const { data: stocks, isLoading } = useFetchStocks({
@@ -30,7 +29,6 @@ export default function StocksTablePageContent() {
       data={stocks?.data}
       setSorting={setSorting}
       sorting={sorting}
-      petition={useFetchStocks}
     />
   );
 }

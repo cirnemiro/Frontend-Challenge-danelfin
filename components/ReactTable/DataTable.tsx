@@ -40,7 +40,6 @@ interface DataTableProps<TData, TValue> {
   renderSubComponent?: (row: any) => React.ReactNode;
   title?: string | undefined;
   onExpandFn?: (row: any) => void;
-  petition?: any;
   rowAction?: (row: RowData) => void;
 }
 
