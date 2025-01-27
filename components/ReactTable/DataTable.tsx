@@ -1,3 +1,4 @@
+"use client";
 import {
   ColumnDef,
   flexRender,
@@ -8,7 +9,14 @@ import {
   RowData,
   useReactTable,
 } from "@tanstack/react-table";
-import { Dispatch, Fragment, SetStateAction, useMemo, useState } from "react";
+import Skeleton from "../Skeleton/Sekeleton";
+import React, {
+  Dispatch,
+  Fragment,
+  SetStateAction,
+  useMemo,
+  useState,
+} from "react";
 import {
   Table,
   TableBody,
@@ -17,6 +25,7 @@ import {
   TableHeader,
   TableRow,
 } from "./table";
+import { IconSquareArrowDown, IconSquareArrowUp } from "@tabler/icons-react";
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[];
@@ -50,11 +59,8 @@ export function DataTable<TData, TValue>({
   totalResults = data?.length,
   isDataLoading,
   renderSubComponent,
-  onExpandFn,
   rowAction,
 }: DataTableProps<TData, TValue>) {
-  const [expandedRow, setExpandedRow] = useState<number | null>(null);
-
   const tableData = useMemo(
     () => (isDataLoading ? Array(5).fill({}) : data),
     [data, isDataLoading]
@@ -63,9 +69,18 @@ export function DataTable<TData, TValue>({
   const tableColumns = useMemo(
     () =>
       isDataLoading
-        ? columns.map((column) => ({
+        ? columns.map((column, index) => ({
             ...column,
-            cell: () => <div>loading</div>,
+            cell: () => (
+              <div className={index === 0 ? "min-w-[220px]" : ""}>
+                <Skeleton
+                  height={"2.5rem"}
+                  width={"100%"}
+                  count={"1"}
+                  circle={false}
+                />
+              </div>
+            ),
           }))
         : columns,
     [columns, isDataLoading]
@@ -81,10 +96,9 @@ export function DataTable<TData, TValue>({
     pageCount:
       totalResults && pagination
         ? Math.ceil(totalResults / pagination.pageSize)
-        : data?.length, //TODO calculate this
+        : data?.length,
     state: {
       pagination,
-      expanded: { [expandedRow!]: true },
     },
   });
 
@@ -100,141 +114,110 @@ export function DataTable<TData, TValue>({
     });
   };
 
-  const options = [
-    <option key={10} value={10}>
-      10
-    </option>,
-    <option key={25} value={25}>
-      25
-    </option>,
-
-    <option key={50} value={50}>
-      50
-    </option>,
-    <option key={100} value={100}>
-      100
-    </option>,
-    <option key={200} value={200}>
-      200
-    </option>,
-  ];
-
-  const breakingRows = 25;
-
   return (
-    <div
-      className={`relative flex flex-col`}
-      style={{
-        paddingBottom: table.getRowModel().rows?.length ? "0px" : "80px",
-      }}
-    >
-      <Table>
-        <TableHeader>
-          {table.getHeaderGroups().map((headerGroup) => (
-            <TableRow key={headerGroup.id} className="!p-4">
-              {headerGroup.headers.map((header) => {
-                return (
-                  <TableHead key={header.id}>
+    <div className="relative flex flex-col w-full">
+      <div className="overflow-x-auto">
+        <Table className="w-full">
+          <TableHeader>
+            {table.getHeaderGroups().map((headerGroup) => (
+              <TableRow key={headerGroup.id}>
+                {headerGroup.headers.map((header, index) => (
+                  <TableHead
+                    key={header.id}
+                    className={`${
+                      index === 0 ? "sticky left-0  z-10" : ""
+                    } bg-slate-800`}
+                  >
                     {header.isPlaceholder ? null : (
-                      <div
-                        className={""}
-                        onClick={() => {
-                          header.column.getCanSort() && handleSorting(header);
-                        }}
-                      >
-                        <p className="text-content-text-subtle">
-                          {flexRender(
-                            header.column.columnDef.header,
-                            header.getContext()
-                          )}
-                        </p>
-                        {header.column.getCanSort() ? (
-                          header.id === sorting?.column ? (
-                            sorting?.direction === "asc" ? (
-                              <div>asc</div>
+                      <div className="m-auto max-w-max text-center">
+                        <div
+                          className={` text-white px-2 py-1 flex gap-4 justify-between items-center text-center m-auto ${
+                            header.column.getCanSort() ? "cursor-pointer" : ""
+                          }`}
+                          onClick={() => {
+                            header.column.getCanSort() && handleSorting(header);
+                          }}
+                        >
+                          <p className="text-content-text-subtle">
+                            {flexRender(
+                              header.column.columnDef.header,
+                              header.getContext()
+                            )}
+                          </p>
+                          {header.column.getCanSort() ? (
+                            header.id === sorting?.column ? (
+                              sorting?.direction === "asc" ? (
+                                <IconSquareArrowDown size={15} />
+                              ) : (
+                                <IconSquareArrowUp size={15} />
+                              )
                             ) : (
-                              <div>desc</div>
+                              <div className="flex flex-col">
+                                <IconSquareArrowUp size={15} />
+                                <IconSquareArrowDown size={15} />
+                              </div>
                             )
-                          ) : (
-                            <div className="flex flex-col">
-                              <div>icon</div>
-                              <div>icon</div>
-                            </div>
-                          )
-                        ) : null}
+                          ) : null}
+                        </div>
                       </div>
                     )}
                   </TableHead>
-                );
-              })}
-            </TableRow>
-          ))}
-        </TableHeader>
-        <TableBody>
-          {table.getRowModel().rows?.length ? (
-            table.getRowModel().rows.map((row) => (
-              <Fragment key={row.id}>
-                <TableRow
-                  key={row.id}
-                  data-state={row.getIsSelected() && "selected"}
-                  onClick={rowAction ? () => rowAction(row.original) : () => {}}
-                  className={rowAction && "cursor-pointer"}
-                >
-                  {row.getVisibleCells().map((cell) => (
-                    <TableCell key={cell.id}>
-                      {flexRender(
-                        cell.column.columnDef.cell,
-                        cell.getContext()
-                      )}
-                    </TableCell>
-                  ))}
-                </TableRow>
-                {row.getIsExpanded() && renderSubComponent ? (
-                  <TableRow>
-                    <TableCell colSpan={columns.length}>
-                      {renderSubComponent(row)}
-                    </TableCell>
+                ))}
+              </TableRow>
+            ))}
+          </TableHeader>
+          <TableBody>
+            {table.getRowModel().rows?.length ? (
+              table.getRowModel().rows.map((row) => (
+                <Fragment key={row.id}>
+                  <TableRow
+                    key={row.id}
+                    data-state={row.getIsSelected() && "selected"}
+                    onClick={
+                      rowAction ? () => rowAction(row.original) : () => {}
+                    }
+                    className={
+                      rowAction
+                        ? "cursor-pointer"
+                        : "" + "bg-white border border-gray-500"
+                    }
+                  >
+                    {row.getVisibleCells().map((cell, index) => (
+                      <TableCell
+                        key={cell.id}
+                        className={`p-2 m-auto text-center ${
+                          index === 0 ? "sticky left-0 bg-white z-10" : ""
+                        }`}
+                      >
+                        {flexRender(
+                          cell.column.columnDef.cell,
+                          cell.getContext()
+                        )}
+                      </TableCell>
+                    ))}
                   </TableRow>
-                ) : null}
-              </Fragment>
-            ))
-          ) : (
-            <TableRow>
-              <TableCell colSpan={columns.length} className="h-24 text-center">
-                <p>{'t("common:no-results-found")'}</p>
-              </TableCell>
-            </TableRow>
-          )}
-        </TableBody>
-      </Table>
-      <div className="flex w-full items-center justify-between rounded-b-lg border-b-xs border-border-subtle bg-background-neutral px-3 py-1">
-        <p>
-          {'t("common:total-rows")'}: {totalResults}
-        </p>
-        {pagination && table.getPageCount() > 0 ? (
-          <div className="flex items-center gap-3">
-            <p>
-              {'t("common:page-label")'} {pagination.pageIndex + 1} -{" "}
-              {table.getPageCount()}
-            </p>
-            <button
-              onClick={() => table.previousPage()}
-              disabled={!table.getCanPreviousPage()}
-            />
-            <button
-              onClick={() => table.nextPage()}
-              disabled={!table.getCanNextPage()}
-            />
-          </div>
-        ) : null}
+                  {row.getIsExpanded() && renderSubComponent ? (
+                    <TableRow>
+                      <TableCell colSpan={columns.length}>
+                        {renderSubComponent(row)}
+                      </TableCell>
+                    </TableRow>
+                  ) : null}
+                </Fragment>
+              ))
+            ) : (
+              <TableRow>
+                <TableCell
+                  colSpan={columns.length}
+                  className="h-24 text-center"
+                >
+                  <p>no results</p>
+                </TableCell>
+              </TableRow>
+            )}
+          </TableBody>
+        </Table>
       </div>
-      {/* <Modal setIsOpen={setCsvModal} isOpen={csvModal}>
-        <DataExportModal
-          title={title ?? t("common:table-default-title")}
-          tableColumns={tableColumns}
-          tableData={tableData!}
-        />
-      </Modal> */}
     </div>
   );
 }

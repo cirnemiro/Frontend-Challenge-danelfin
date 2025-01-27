@@ -1,7 +1,6 @@
 import { useQuery, UseQueryOptions } from "@tanstack/react-query";
 import { StocksRepository } from "../respositories/stocks";
 import { Api } from "../api";
-import { ZodError } from "zod";
 
 interface Score {
   fundamental: {
